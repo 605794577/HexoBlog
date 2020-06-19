@@ -1365,7 +1365,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e5d1ac;
+  background: #c14bde;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1601,6 +1601,7 @@ pre code {
   color: #ff0000;
   display: inline-block;
   margin: 0 5px;
+  animation: iconAnimate 1.33s ease-in-out infinite;
 }
 .powered-by,
 .theme-info {
@@ -2784,12 +2785,12 @@ body {
   background: url("/images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: 70% 10%;
+  opacity: 0.8;
 }
-.post {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.7);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.7);
+@media (max-width: 767px) {
+  body {
+    background-image: url("https://ziyuan.lruihao.cn/images/bg_cell.png");
+    background-size: cover;
+  }
 }
