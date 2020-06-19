@@ -310,7 +310,7 @@
           站点概览
         </li>
       </ul>
-
+         
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
       </div>
@@ -338,10 +338,19 @@
 
 
       </div>
-
+    
+	</div>
+	
+	<div>
+	<!-- 音频播放 -->
+    <link rel="stylesheet" href="/dist/APlayer.min.css">
+    <div id="aplayer"></div>
+    <script type="text/javascript" src="/dist/APlayer.min.js"></script>
+    <script type="text/javascript" src="/dist/music.js"></script>
     </div>
+	
   </aside>
-  <div id="sidebar-dimmer"></div>
+  
 
 
       </div>
@@ -510,5 +519,9 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
 });
 </script>
 
+  
+
+
 </body>
 </html>
+
