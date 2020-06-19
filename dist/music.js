@@ -10,7 +10,7 @@ const ap = new APlayer({
             artist: '许嵩',
             url: 'https://sharefs.yun.kugou.com/202006191117/186eca0823694bd4e40356dd6016c319/G123/M09/19/00/G4cBAFsnQUeAMrb5AD5yEvBAAJY536.mp3',
             cover: 'https://p3fx.kgimg.com/stdmusic/20180612/20180612032745754576.jpg',
-            lrc: 'https://hexo-weste99.obs.cn-southwest-2.myhuaweicloud.com/%E8%AE%B8%E5%B5%A9-%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3.lrc',
+            lrc: 'lrc1.lrc',
             theme: '#ebd0c2'
         },
 		{
@@ -18,7 +18,7 @@ const ap = new APlayer({
             artist: '许嵩',
             url: 'https://sharefs.yun.kugou.com/202006191402/6c8c67c587dff1d7345d082894acbadb/G064/M09/10/08/IJQEAFc-aueAZCXaAEFnB1LjkYU037.mp3',
             cover: 'http://i2.tiimg.com/721551/a32fbf3cd9595eef.jpg',
-            lrc: 'https://moeplayer.b0.upaiyun.com/aplayer/snowmoonflowers.lrc',
+			lrc: 'lrc1.lrc',
             theme: '#ebd0c2'
         },
 		{
