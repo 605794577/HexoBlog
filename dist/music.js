@@ -2,6 +2,9 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
 	autoplay: true, //自动播放
     listFolded: true,//列表默认折叠
+	preload: 'auto',
+	mutex: true,
+	loop: 'all',
     listMaxHeight: 90,//列表最大高度
     lrcType: 3, //此为歌词格式，没有歌词可以直接删掉这一行
     audio: [
