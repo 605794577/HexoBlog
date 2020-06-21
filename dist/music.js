@@ -4,7 +4,7 @@ const ap = new APlayer({
     listFolded: true,//列表默认折叠
 	volume: 0.5,
     listMaxHeight: 90,//列表最大高度
-    lrcType: 3, //此为歌词格式，没有歌词可以直接删掉这一行
+   //lrcType: 3, //此为歌词格式，没有歌词可以直接删掉这一行
     audio: [
         {
             name: '如约而至',
