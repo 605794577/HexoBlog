@@ -5,13 +5,14 @@ const ap = new APlayer({
 	volume: 0.6,
 	fixed: true,
     listMaxHeight: 90,//列表最大高度
-   //lrcType: 3, //此为歌词格式，没有歌词可以直接删掉这一行
+    lrcType: 3, //此为歌词格式，没有歌词可以直接删掉这一行
     audio: [
         {
             name: '如约而至',
             artist: '许嵩',
             url: 'http://qc5y092fc.bkt.clouddn.com/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3_%E8%AE%B8%E5%B5%A9_128K.mp3',
             cover: 'https://p3fx.kgimg.com/stdmusic/20180612/20180612032745754576.jpg',
+			lrc: 'http://qc5y092fc.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9-%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3.lrc',
             theme: '#ebd0c2'
         },
 		{
