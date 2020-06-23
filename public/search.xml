@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>《从一到无穷大》</title>
     <url>/post/5485a447.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="本书信息"><a href="#本书信息" class="headerlink" title="本书信息"></a>本书信息</h1><p>书名：《从一到无穷大——科学中的事实与猜想》</p>
@@ -72,7 +87,8 @@
 <p>简单来说：一个旅馆有无限个房间并编好号，现在旅馆已住满，但来了一个旅客想住店，旅馆只需让1号房的旅客搬到2号房，2号房的旅客搬到3号房，以此类推，所有旅客都搬到下一号房间去，就能腾出1号房让新来的旅客住店，如果来了2个，3个，乃至无限个新旅客，也都能找到一种挪动旅客的方式腾出空房间让新旅客住进来。（与之前的“找一一对应关系”有类似之处）</p>
 <blockquote>
 <p>附上李永乐老师关于“希尔伯特旅馆”的科普视频：</p>
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"https://www.bilibili.com/video/BV1oW411C7gp?from=search&seid=15430455500384216256","pic":"http://i2.tiimg.com/721551/9c858d9a67cbe513.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+<div class="bilibili">     <iframe src="player.bilibili.com/player.html?aid=31640013&bvid=BV1oW411C7gp&cid=55329155&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div>
+
 </blockquote>
 <p>虽然“部分可能等于整体”，但“可能”二字就说明，无穷数世界中仍然存在“部分不等于整体”这一合乎“常规逻辑”的事实，也说明了两个无穷数之间并不是只有相等关系。</p>
 <p><del>（废话！不然还比较什么大小😂）</del></p>
@@ -188,7 +204,8 @@
 <blockquote>
 <p>陈景润，王元，潘承洞三位国之栋梁，均师从于<a href="https://baike.baidu.com/item/华罗庚/190988" target="_blank" rel="noopener"><strong>华罗庚</strong></a>先生，属于同门师兄弟。1950年，在华罗庚先生归国后举办的数论讨论班上，他们选择了哥德巴赫猜想作为讨论课题，使我国在哥德巴赫猜想领域的研究一直处于世界巅峰。</p>
 <p>附上李永乐老师关于哥德巴赫猜想的科普视频：</p>
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"https://www.bilibili.com/video/BV1is41157SL?from=search&seid=17285394197937194371","pic":"http://i2.tiimg.com/721551/172d10bdcf91391e.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+<div class="bilibili">     <iframe src="//player.bilibili.com/player.html?aid=25860944&bvid=BV1is41157SL&cid=44201825&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div>
+
 </blockquote>
 <p>无论是“埃式筛法”，还是后来的“费马数”，再到现在人们一直努力证明的“哥德巴赫猜想”，数学家们一直致力于寻找质数的某种通性，想快速求出一个质数序列，这一工作，就目前来说还任重而道远。</p>
 ]]></content>
@@ -213,21 +230,6 @@
 <p>形式上以文字记录为主，但可能不仅限于此，会不断完善。</p>
 <p>一直以来我对创作都抱有一定的热情，这次终于正式动工，希望能坚持更新下去。</p>
 <p>最后还要感谢好友<strong><a href="https://x1aoboo.com" target="_blank" rel="noopener">晓波</a></strong>的推荐，让我选择用Hexo+Github搭建自己的博客。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/post/4a17b156.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
   </entry>
 </search>
