@@ -1450,7 +1450,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f137ad;
+  background: #adff09;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3039,7 +3039,7 @@ body {
 }
 @media (max-width: 767px) {
   body {
-    background-image: url("http://i2.tiimg.com/721551/f7e0ee77f543b8da.jpg");
+    background-image: url("http://qc5y092fc.bkt.clouddn.com/yang_mobile.jpg");
     background-size: cover;
   }
 }

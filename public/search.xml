@@ -1,60 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>《从一到无穷大》</title>
-      <link href="/post/5485a447.html"/>
-      <url>/post/5485a447.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="本书信息"><a href="#本书信息" class="headerlink" title="本书信息"></a>本书信息</h1><p>书名：《从一到无穷大——科学中的事实与猜想》</p><p>作者：乔治·伽莫夫 [美]</p><p>出版信息：文化发展出版社，2019年3月第1版，2019年12月第9次印刷</p><p><img src="http://i1.fuimg.com/721551/3fe076eaaed58f6e.jpg" alt="《从一到无穷大》"></p><a id="more"></a><h1 id="从“科普”谈起"><a href="#从“科普”谈起" class="headerlink" title="从“科普”谈起"></a>从“科普”谈起</h1><p>“科普”一词，在我们的日常生活中并不陌生，我们经常会听到一些包含“科普”二字的对话，诸如：“关于xxx，你给我科普科普呗。”，“这是什么游戏，求大神科普？”等等。</p><p>其实，上面所提到的“科普”，更贴切的表达应该是“解释说明”。</p><p>在此请容我咬文嚼字一下，从“科普”二字的构成就能看出，“科普”一定是先有“科”，再有“普”，如果话题探讨的范围远离了科学知识，“科普”也就无从谈起了。</p><p>而我今天想探讨的“科普”，正是基于这一本质含义的“科普”。</p><p>我认为，科普工作具有一定的门槛，对于科普工作者有着极高的要求，主要涉及两方面：专业素养和表达能力。</p><p>良好的专业素养不必多说，这是对科普工作者的最低要求，也是核心要求，专业素养过硬才能保证科普正确，才能让受众信服；</p><p>良好的表达能力是一个很重要但同时又很弹性的要求，毕竟不是每一个高精尖的学术人才都善于口头表达，只善于与自然科学打交道的专家也写出过经典的科普读物，只不过没有普适性，对于一般人来说，还不如学校印的课本容易入门。</p><p>所以，我一直认为科普读物很难写，也对科普读物很挑剔，太“科学”就难以“普适”，太“普适”又往往解释不好“科学”。</p><p>如果在芸芸读物中，单论“科”与“普”二者间的平衡性，<a href="https://baike.baidu.com/item/乔治·伽莫夫/1749781fromtitle=%E4%BC%BD%E8%8E%AB%E5%A4%AB&amp;fromid=5482044" target="_blank" rel="noopener"><strong>乔治·伽莫夫</strong></a>所著的《从一到无穷大——科学中的事实与猜想》（后文统一简称为《从一到无穷大》），应该是独树一帜的存在。</p><blockquote><p>作为“大爆炸宇宙论”的奠基人，乔治·伽莫夫无愧于伟大的核物理学家，宇宙学家这一头衔，但不同于同时代的其他大科学家只留给了后人高深的学术文章，伽莫夫一直致力于科普读物的撰写，他的另一个合格的身份正是科普作家。</p><p>《从一到无穷大》首次出版于1940年，荣获过联合国教科文组织卡琳伽科普奖（世界科普最高奖），也受到过同时代的伟人——阿尔伯特·爱因斯坦的推荐。</p></blockquote><p>我第一次听说这本书，是通过一篇前年的新闻报道，记叙的是清华大学邱勇校长赠送新生一本书籍，即《从一到无穷大》，那时我就产生了很大的兴趣，可惜恰逢考研的备考阶段，一直没买来阅读，后来又渐渐忘却了。</p><p>今年6月，一切都已尘埃落定，闲暇之余，观看李永乐老师的视频时看到他也提到了这本书，又恰逢618电商促销，当即在当当网下单。</p><p>有幸拜读，遂借行文，记录鄙人通过阅读的学习成果。</p><h1 id="第一部分：数字游戏"><a href="#第一部分：数字游戏" class="headerlink" title="第一部分：数字游戏"></a>第一部分：数字游戏</h1><h2 id="第一章：大数字"><a href="#第一章：大数字" class="headerlink" title="第一章：大数字"></a>第一章：大数字</h2><p>伽莫夫1940年在初版书籍的序言中就曾写道：“本书根据重要性和关注度而不是简易程度选择主题，因此在难易程度上有一定的不均匀性，有一些章节简单到连儿童也能理解…”。</p><p>显然，开篇章节的难度就是“连儿童也能理解”。</p><p>数学世界的基本构成是数字，每个人上学时第一次接触到数学，恐怕就是数数了，所以作者适时地向所有读者提出这样一个问题：你最大能数到多少？</p><p>现代人都知道，在写阿拉伯数字时，后面不断添“0”就能使数字越来越大，或者用科学计数法，把计数因子不断增大亦能得到更大的数。</p><p>但是古代人在接触到阿拉伯数字前是不知道这种简易方法的，他们只会将数字元素进行叠加。比如罗马数字中M代表“千”，“八千”就写作MMMMMMMM（8个M）。</p><p>况且，古代人对计数需求不大，所以数字符号的最高位元素也不大，所以要求罗马计数官写出“一百万”，他就要连写上1000个M符号。</p><blockquote><p>相传阿拉伯数字起源于3世纪的古印度，公元771年传入阿拉伯，由阿拉伯传入欧洲（也是阿拉伯数字名称的来由），在13~15世纪才在欧洲各国正式普及。</p></blockquote><p>所以，古人从来不会记录沙滩里有多少沙子，只会表达沙子有“很多”。</p><p>公元前3世纪，古希腊科学家阿基米德在其专著<a href="https://baike.baidu.com/item/数沙者" target="_blank" rel="noopener"><strong>《数沙者》（The Sand Reckoner）</strong></a>中，首次提出了类似科学计数法的概念（详见下）。</p><blockquote><p>古希腊算数中最大单位为“万”（Myriad）。</p><p>阿基米德引入“万万”，即“亿”（Octade）作为第二级单位来记录大数，第三级单位为“亿亿”（Octade Octade），第四级单位为“亿亿亿”（Octade Octade Octade），以此类推下去。</p></blockquote><p>虽然如今看来这极其简单，但在那个时代，阿基米第是第一个发明书写大数字方法的人，使得人类在数学的发展上前进了一大步。</p><p>历史上广为流传的一个故事——“国王与麦粒”，就是一个对大数认知有误而闹的笑话。</p><p>如今网络上流传的版本普遍是：阿基米德与国王下棋，国王输了，问阿基米德想要什么赏赐，阿基米德只要国王在棋盘上放置的全部麦粒，且放置规则为：第一个格子放1粒麦，第二个格子放2粒麦，第三个格子放4粒麦，以此类推，保证每个格子所放麦粒数都是上一个格子的麦粒数的二倍，直至最后一个格子（国际象棋棋盘共64格）。</p><blockquote><p>其实这个事情是真实存在的，只不过发生在印度。</p><p>宰相达依尔发明了象棋，印度舍罕王想奖励他的贡献，达依尔便提出了如上要求。</p></blockquote><p>伽莫夫还在书中还提到了很多同样有趣的大数问题，比如说：计算机世界里的经典算法问题——<a href="https://baike.baidu.com/item/汉诺塔/3468295" target="_blank" rel="noopener"><strong>汉诺塔</strong></a>，著名的“印刷行问题”等等，笔者在此不做赘述。</p><p>本章节的前半部分罗列了各种历史故事，皆旨在让人们认识到，大数相对于日常生活，过于庞大，仅凭人力是难以计算或使用的。</p><p>但大数再难以计算，终归还是可以计算的。</p><p>所以在后半部分，作者借德国数学家<strong><a href="https://baike.baidu.com/item/格奥尔格·康托尔/4614747?fromtitle=%E5%BA%B7%E6%89%98%E5%B0%94&amp;fromid=637063&amp;fr=aladdin" target="_blank" rel="noopener">康托尔</a></strong>的问题——“所有整数的个数和一条线段上点的个数，谁更大?”，引出了无穷数这一概念。</p><p>应注意：虽然无穷数是不可计算的，但并不代表无穷数不可比较。</p><p>举个形象的例子：如果你数数只会数到10以内，给你上百根竹签，上百块肉，让你比较竹签和肉谁更多？</p><p>你肯定不会先去数他俩的个数，然后再来比较数字的大小（因为你根本数不出来）。</p><p>你会采取这样的方法：拿一块肉串在一根竹签上，再拿第二块肉串在第二根竹签上，重复上述工作，直至竹签或者肉有一方用完，那么剩下的那一方，就是数量更多的一方。</p><p>康托尔所采取的无穷数比较法就是基于这一思想，如果两个无穷数相互之间能建立一一对应的关系，那么这两个数就可以认为是相等的，不然多出的一方就是较大者。</p><p>根据康托尔提出的这一方法，我们能得到很多有趣的无穷数比较结果。</p><p>比如：$偶数的个数=奇数的个数$。</p><p>这个不难理解，因为可以建立这样的一一对应关系：0→1，2→3，4→5，6→7，$\cdots$</p><blockquote><p>即：$2N$→$2N+1$（$N$取0，1，2，$\cdots$）</p></blockquote><p>难以理解的是接下来的这个例子：$所有整数的个数=偶数的个数$。</p><p>我们先尝试着找一个所有整数与偶数间的一一对应关系，这个也不难：0→0，1→2，2→4，3→6，$\cdots$</p><blockquote><p>即：$N$→$2N$（$N$取0，1，2，$\cdots$）</p></blockquote><p>从康托尔的无穷数比较法知，存在一一对应关系即两个无穷数相等，这个例子中的等式显然是成立的。</p><p>但我们又知道，$所有整数的个数=偶数的个数+奇数的个数$，如果上述例子成立，就说明无穷数里，允许“部分可能等于整体”的成立，事实上也正是如此。</p><p>关于无穷数世界中“部分可能等于整体”思想的理解，伽莫夫提到了另一位德国数学家<a href="https://baike.baidu.com/item/戴维·希尔伯特/7242382?fromtitle=%E5%A4%A7%E5%8D%AB%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9&amp;fromid=10242115&amp;fr=aladdin" target="_blank" rel="noopener"><strong>大卫·希尔伯特</strong></a>所讲过的一个经典故事——“无限房间的旅馆”。</p><p>简单来说：一个旅馆有无限个房间并编好号，现在旅馆已住满，但来了一个旅客想住店，旅馆只需让1号房的旅客搬到2号房，2号房的旅客搬到3号房，以此类推，所有旅客都搬到下一号房间去，就能腾出1号房让新来的旅客住店，如果来了2个，3个，乃至无限个新旅客，也都能找到一种挪动旅客的方式腾出空房间让新旅客住进来。（与之前的“找一一对应关系”有类似之处）</p><blockquote><p>附上李永乐老师关于“希尔伯特旅馆”的科普视频：</p><div class="bilibili">     <iframe src="//player.bilibili.com/player.html?aid=31640013&bvid=BV1oW411C7gp&cid=55329155&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div></blockquote><p>虽然“部分可能等于整体”，但“可能”二字就说明，无穷数世界中仍然存在“部分不等于整体”这一合乎“常规逻辑”的事实，也说明了两个无穷数之间并不是只有相等关系。</p><p><del>（废话！不然还比较什么大小😂）</del></p><blockquote><p>为方便后文叙述，在此先列出一个根据康托尔比较法得到的正确结论：</p><p>$整数的个数=分数的个数$。</p></blockquote><p>让我们回到一开始康托尔提出的那个问题上，“所有整数的个数和一条线段上点的个数，谁更大?”。</p><p>我们假设这条线段的长度为1米，线段上每个点到其中一个端点的距离都是固定的，这个距离可以被看作成一个无限小数，如0.751234….</p><blockquote><p>因为只要你的测量仪器够精确，理论上讲，这个距离值会不断精确到下一位，所以距离值可被看作一个无限小数。</p></blockquote><p>因此上述问题，就变成了比较“所有整数的个数和无限小数的个数”。</p><p>应注意，分数都可以化成有理小数，即有限小数和无限循环小数。</p><p>根据前文提到的，$整数的个数=分数的个数$，我们可以知道：$整数的个数=有理小数的个数$。</p><p>所以，所有整数都可以在这条线段上找到一个距离值为有理小数的点与之对应，但那些距离值不是有理小数，是无限不循环小数的点，则无法与整数对应，也就是“多出来了”。</p><p>结论显而易见：$所有整数的个数＜一条线段上的点的个数$。</p><p>虽然是假设线段长度为1米来探讨这一问题，但实际上1米长的线段上点的个数，和任意长度的线段上点的个数，是一样的。</p><blockquote><p>把任意两条线段看作一个三角形的两条边，其中一条线段看作另一条线段的投影，就可以建立线段上各点的一一对应关系，线段的长度变化无非影响的是二者间的夹角变化。</p><p>更有趣的结论：$线段上点的个数=平面上点的个数$。</p><p>对应关系的叙述如下：</p><p>某线段长为n米，线段上任意一点都对应一个无限小数，如：0.75345682…，我们将其奇数位的数字拿出来拼成一个新无限小数0.7358…，将其偶数位的数字拿出来拼成另一个新无限小数0.5462…，两个小数看成一个二维坐标的横纵坐标值<0.7358...，0.5462...>，就可在n米×n米的面上唯一对应一个点，这个点称为线段上该点的“对偶点”。</p><p>推广至三维空间，还可证明出：$线段上点的个数=空间中点的个数$。</p></blockquote><p>康托尔在给出了比较无穷数大小的方法后，还给出了无穷数的等级——希伯来字母א（Aleph，读作“阿列夫”），用于表达无穷数的大小。</p><p>无穷数的最小一级规定为”$א_0$”，每增大一级，下标加1。</p><blockquote><p>无穷数等级转换公式：$2^{א_n} =א_{n+1}$</p></blockquote><p>例如，”$א_0$”代表：“所有整数的个数”这一级别的无穷数。</p><p>​           “$א_1$”代表：“所有几何上点的个数”这一级别的无穷数。</p><p>​           “$א_2$”代表：“所有曲线的样式个数”这一级别的无穷数。</p><p>目前来说，还没有人能举出使用”$א_3$”来表示的无穷数。</p><h2 id="第二章：自然数和人工数"><a href="#第二章：自然数和人工数" class="headerlink" title="第二章：自然数和人工数"></a>第二章：自然数和人工数</h2><p>探讨了大数和无限数这两个离我们生活有些遥远的数字后，让我们把目光聚焦于更贴切于人类日常生活的数字——自然数。</p><p>自然数是数字世界里最古老且经典的存在，自数学诞生之日起，便一直在数学家们的探讨范围内。</p><p>数学按照其作用，主要分为应用数学和理论数学。前者偏向于探求数学知识的应用手段，后者更偏向于数学本身的内在规律。</p><blockquote><p>理论数学中很多问题都是人们大脑构思出来的，可能并不存在任何实际意义，通过对于理论问题的探讨，培养一种数学思维能力。</p><p>理论数学也因为其更“纯粹”，而又被称为“纯粹数学”或“纯数学”。</p></blockquote><p>在“纯粹的”理论数学中，有着更为纯粹的存在——数论，数论的主要研究内容是：整数的性质。</p><p>在数论里，人们对于质数的讨论一直热情不减。</p><blockquote><p>质数：在大于1的自然数中，该自然数只能被1和其自身整除。</p><p>其实在本书出版之时（1940年），学术界一直认为1是质数，现在普遍认为1既不是质数也不是合数，具体原因是为了保证因数分解时，分解式的唯一性。</p><p>参考来源：<a href="https://www.zhihu.com/question/310998574/answer/587861265" target="_blank" rel="noopener"><strong>为什么1不能被认为是质数？-霜夏的回答-知乎</strong></a></p></blockquote><p>在与质数相关的问题中，最大名鼎鼎的莫过于号称“世界近代三大数学猜想之一”的“<a href="https://baike.baidu.com/item/哥德巴赫猜想/72364" target="_blank" rel="noopener"><strong>哥德巴赫猜想</strong></a>”，也是“三大猜想”中，唯一一个仍悬而未决的猜想。</p><blockquote><p>另外两个难题是：费马猜想和四色猜想，分别在1994年由英国数学家，1976年由美国数学家完成证明，形成了费马大定理和四色定理。</p></blockquote><p>在探讨哥德巴赫猜想之前，先了解一些人们早期对于质数的研究历史。</p><p>早在公元前300年左右，古希腊数学家，被誉为“几何之父”的<a href="https://baike.baidu.com/item/欧几里得/182343" target="_blank" rel="noopener"><strong>欧几里得</strong></a>，就证明了质数是无限多个，即不存在最大的质数。</p><blockquote><p>欧几里得采用了反证法证明：</p><p>假设最大质数存在，记为N，设P为“所有”质数的乘积加1，</p><p>即：$P=(3×5×7×\cdots×N)+1$。</p><p>显然：$P&gt;N$，且$P$不会被任意质数整除（$N$以内的质数整除$P$，都会余1）。</p><p>现做如下讨论：如果$P$是质数，那么$N$就不是最大的质数；如果$P$是合数，则一定存在比$N$大的一个质数$N^{‘}$，同样使$N$不再是最大的质数。</p><p>所以两种情况都与假设矛盾，故不存在最大质数，得证。</p></blockquote><p>在知晓质数是无限多个后，人们就开始致力于研究一种方法，以快速简便的找出世间所有的质数。</p><p>最早在公元前200多年，古希腊数学家<a href="https://baike.baidu.com/item/埃拉托斯特尼/841011?fr=aladdin" target="_blank" rel="noopener"><strong>埃拉托斯特尼</strong></a>，就利用“埃拉托斯特尼筛法”（简称“埃式筛法”）快速筛选出了100以内的所有质数。</p><p>这个方法的思想很简单：从最小的质数2开始，将数字依次列出至$N$。先剔除所有2的倍数，再剔除所有3的倍数，再剔除所有5的倍数，以此类推，直至剔除到所有$P$的倍数（$P$为$\sqrt{N}$以内的最大质数）。</p><p>后人们已经利用这种古老却简单的方法，将10亿以内的质数全部检验完毕。</p><blockquote><p>埃拉托斯特尼还是一位地理学家，最大的贡献是设计出了经纬度系统，同时他也是历史文字记载中，最早测量出地球周长的人。</p></blockquote><p>这种简单的“埃式筛法”还是很费时费力的，所以而后的数千年间，数学家们一直致力于寻找表达质数的通式。</p><p>比如在1640年，法国数学家<a href="https://baike.baidu.com/item/皮耶·德·费玛/1444615?fromtitle=%E8%B4%B9%E9%A9%AC&amp;fromid=171707" target="_blank" rel="noopener"><strong>费马</strong></a>提出的质数公式的猜想：$F_n = 2^{2^n}+1$（n = 0，1，2，3，$\cdots$），其中$F_n$被称为费马数。</p><blockquote><p>费马当年只验证了前5个费马数是质数：</p><p>$F_0=2^{2^0}+1=3$</p><p>$F_1=2^{2^1}+1=5$</p><p>$F_2=2^{2^2}+1=17$</p><p>$F_3=2^{2^3}+1=257$</p><p>$F_4=2^{2^4}+1=65537$</p><p>费马认为第6个费马数$F_5$太大了，所以没有计算验证，便给出了这一猜想：满足费马数公式的数都是质数。</p></blockquote><p>长时间以来，费马数一直没有受到人们的质疑。</p><p>直到1732年，时年25岁的瑞士数学家<a href="https://baike.baidu.com/item/莱昂哈德·欧拉/2148998?fromtitle=%E6%AC%A7%E6%8B%89&amp;fromid=162567" target="_blank" rel="noopener"><strong>欧拉</strong></a>，验算出费马数$F_5$并非质数，从而才否定了费马数的猜想。</p><blockquote><p>欧拉计算出$F_5=2^{2^5}+1=4294967297=641×6700417$，显然$F_5$是合数。这也是被誉为“数论之父”的费马，在其一生提出的诸多命题和猜想里，唯一的错误。</p><p>更有趣的是：随着计算机的发展，人们利用计算机对费马数进行计算，发现费马数自$F_4$后都是合数。迄今为止，是质数的费马数也就只有费马当年验算的那5个。</p></blockquote><p>而后数百年间，人们也从未停止过质数通式的寻找工作，但直到今日，到底是否存在这样的通式表达，还是一个未解之谜。</p><p>回顾了人们对质数的一些研究历史，让我们再回到前文所提到的“哥德巴赫猜想”上。</p><p>1742年，哥德巴赫在写给欧拉的一封信中，提到了一个猜想——“任何一个大于5的整数都可写作3个质数之和”。</p><blockquote><p>当年，哥德巴赫给出的原猜想是：任何一个大于2的整数都可写作3个质数之和。</p><p>正如前文所述，哥德巴赫所在时代的学术界都认为1是质数，而今1已经不是质数了，所以上面所述猜想是哥德巴赫原意的今日陈述。</p></blockquote><p>哥德巴赫验证了很多简单的数字，该结论都成立，但哥德巴赫无法给出确切的证明，所以求助于当时赫赫有名的欧拉。</p><p>欧拉在后来给哥德巴赫的回信中，提出了这一猜想的等价表示：</p><p>任何一个大偶数$N$（$N&gt;5$）都可表达成两个质数的和。</p><p>这也是现在人们描述哥德巴赫猜想的常用版本。</p><blockquote><p>设$N＞5$，如果$N$是偶数，$N=2+(N-2)$，其中$N-2$是偶数；</p><p>如果$N$是奇数，$N=3+(N-3)$，其中$N-3$是偶数。</p><p>显然：“$N$可表示为3个质数之和”等价于“任意偶数可表示为2个质数之和”。</p></blockquote><p>但很遗憾，直至欧拉去世，都没证明出该猜想，当然，他也没有找出一个反例推翻猜想。</p><p>如果一个大偶数$N$（$N&gt;5$）是两个质数$A$与$B$的和，且质数$A$可写作不超过$x$个质数因子乘积的形式，质数$B$可写作不超过$y$个质数因子乘积的形式（允许质数因子重复出现），则把该描述简记为“$x+y$”。</p><blockquote><p>显然，哥德巴赫猜想可简记为“$1+1$”。</p></blockquote><p>在哥德巴赫猜想的研究过程中，数学家们证明出的结论，从最初的“大偶数可由300000个质数之和表示”，到后来“$5+5​$”，“$4+4​$”，再到“$1+4​$”，“$1+3​$”，逐步逼近最终的猜想。</p><p>而最为国人熟知的中国数学家<a href="https://baike.baidu.com/item/陈景润/18067" target="_blank" rel="noopener"><strong>陈景润</strong></a>，在1966年，将这一进度推至“$1+2$”，被国内外数学家认可，称为“陈氏定理”，距今已过去54年，目前仍是哥德巴赫猜想这一研究进度的顶峰。</p><p>其实早在陈景润之前，中国数学家<a href="![1592843899696](C:\Users\yc\AppData\Local\Temp\1592843899696.png"><strong>王元</strong></a>)就完成了一系列猜想的证明，1956年至1962年间，王元先后证明了“$3+4​$”，“$3+3​$”，“$2+3​$”，“$1+4​$”。</p><p>其间，王元的侄子——中国数学家<a href="https://baike.baidu.com/item/潘承洞" target="_blank" rel="noopener"><strong>潘承洞</strong></a>还完成了“$1+5$”的证明。</p><p>另外，作为陈景润的师兄，王元还对陈景润“$1+2$”的证明进行了审查，帮助他成功发表论文。</p><blockquote><p>陈景润，王元，潘承洞三位国之栋梁，均师从于<a href="https://baike.baidu.com/item/华罗庚/190988" target="_blank" rel="noopener"><strong>华罗庚</strong></a>先生，属于同门师兄弟。1950年，在华罗庚先生归国后举办的数论讨论班上，他们选择了哥德巴赫猜想作为讨论课题，使我国在哥德巴赫猜想领域的研究一直处于世界巅峰。</p><p>附上李永乐老师关于哥德巴赫猜想的科普视频：</p><div class="bilibili">     <iframe src="//player.bilibili.com/player.html?aid=25860944&bvid=BV1is41157SL&cid=44201825&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div></blockquote><p>无论是“埃式筛法”，还是后来的“费马数”，再到现在人们一直努力证明的“哥德巴赫猜想”，数学家们一直致力于寻找质数的某种通性，想快速求出一个质数序列，这一工作，就目前来说还任重而道远。</p><p>当然，数论里并不只有关于质数的研究，作者伽莫夫在剩余的篇幅里，着重提到了另一类特殊的自然数——勾股数，以及从勾股数衍生的一类猜想和定理。</p><p>人类对于勾股数的研究由来已久。</p><p>古埃及的工匠，在打造角尺时，会把边长比做成$3：4：5$，这样的三角形也被称为“埃及三角形”。</p><p>公元前6世纪，古希腊数学家<a href="https://baike.baidu.com/item/毕达哥拉斯/328218?fr=aladdin" target="_blank" rel="noopener"><strong>毕达哥拉斯</strong></a>第一个证明了勾股定理，西方一直称该定理为“毕达哥拉斯定理”。</p><p>而在中国，早在西周初年（约公元前1000年），<a href="https://baike.baidu.com/item/商高/1421498?fr=aladdin" target="_blank" rel="noopener"><strong>商高</strong></a>就提出过“勾三股四弦五”的说法，这一说法被记录在西汉时期（公元前1世纪）的算书<a href="https://baike.baidu.com/item/周髀算经/956191" target="_blank" rel="noopener"><strong>《周髀算经》</strong></a>中（髀，音通“匕”）。</p><p>东汉末年东吴人<a href="https://baike.baidu.com/item/赵爽/3036362#3_1" target="_blank" rel="noopener"><strong>赵爽，</strong></a>利用弦图给出了勾股定理的证明，魏晋时期数学家<a href="https://baike.baidu.com/item/刘徽/42748" target="_blank" rel="noopener"><strong>刘徽</strong></a>在对<a href="https://baike.baidu.com/item/九章算术/348232?fr=aladdin" target="_blank" rel="noopener"><strong>《九章算术》</strong></a>进行注解时，对证明进行了补充，并概括为“出入相补原理”。</p><p><img src="http://i1.fuimg.com/721551/70771c550afd0dd0.jpg" alt="赵爽-弦图"></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>写在最前</title>
+    <url>/post/9a105c1a.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果不算系统自动创建的那篇<strong><a href="https://weste99.com/2020/06/17/hello-world/" target="_blank" rel="noopener">博文</a></strong>，这篇博文应该是我在个人博客网站上刊登的第一篇文章，是我这位有着14年上网经验（06年至今^_^）的“老网民”第一次撰写博文，起步虽晚，但来者可追。</p>
+<a id="more"></a>
+<p>详细介绍一下本站，正如站点描述中所述，我将在此进行一些个人创作。</p>
+<blockquote>
+<p>主要涵盖：“自然科学”，“人文历史”，“文学创作”，“精神娱乐”；</p>
+</blockquote>
+<p>具体来讲：目前，我会先分享一些课外读物的读书心得，未来我还会更新一些专业知识的学习过程，以及研究生学习生活的个人纪录，不定期更新~</p>
+<p>形式上以文字记录为主，但可能不仅限于此，会不断完善。</p>
+<p>一直以来我对创作都抱有一定的热情，这次终于正式动工，希望能坚持更新下去。</p>
+<p>最后还要感谢好友<strong><a href="https://x1aoboo.com" target="_blank" rel="noopener">晓波</a></strong>的推荐，让我选择用Hexo+Github搭建自己的博客。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《从一到无穷大》</title>
+    <url>/post/5485a447.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="本书信息"><a href="#本书信息" class="headerlink" title="本书信息"></a>本书信息</h1><p>书名：《从一到无穷大——科学中的事实与猜想》</p>
+<p>作者：乔治·伽莫夫 [美]</p>
+<p>出版信息：文化发展出版社，2019年3月第1版，2019年12月第9次印刷</p>
+<p><img src="http://qc5y092fc.bkt.clouddn.com/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7.jpg" alt="《从一到无穷大》"></p>
+<a id="more"></a>
+<h1 id="从“科普”谈起"><a href="#从“科普”谈起" class="headerlink" title="从“科普”谈起"></a>从“科普”谈起</h1><p>“科普”一词，在我们的日常生活中并不陌生，我们经常会听到一些包含“科普”二字的对话，诸如：“关于xxx，你给我科普科普呗。”，“这是什么游戏，求大神科普？”等等。</p>
+<p>其实，上面所提到的“科普”，更贴切的表达应该是“解释说明”。</p>
+<p>在此请容我咬文嚼字一下，从“科普”二字的构成就能看出，“科普”一定是先有“科”，再有“普”，如果话题探讨的范围远离了科学知识，“科普”也就无从谈起了。</p>
+<p>而我今天想探讨的“科普”，正是基于这一本质含义的“科普”。</p>
+<p>我认为，科普工作具有一定的门槛，对于科普工作者有着极高的要求，主要涉及两方面：专业素养和表达能力。</p>
+<p>良好的专业素养不必多说，这是对科普工作者的最低要求，也是核心要求，专业素养过硬才能保证科普正确，才能让受众信服；</p>
+<p>良好的表达能力是一个很重要但同时又很弹性的要求，毕竟不是每一个高精尖的学术人才都善于口头表达，只善于与自然科学打交道的专家也写出过经典的科普读物，只不过没有普适性，对于一般人来说，还不如学校印的课本容易入门。</p>
+<p>所以，我一直认为科普读物很难写，也对科普读物很挑剔，太“科学”就难以“普适”，太“普适”又往往解释不好“科学”。</p>
+<p>如果在芸芸读物中，单论“科”与“普”二者间的平衡性，<a href="https://baike.baidu.com/item/乔治·伽莫夫/1749781fromtitle=%E4%BC%BD%E8%8E%AB%E5%A4%AB&amp;fromid=5482044" target="_blank" rel="noopener"><strong>乔治·伽莫夫</strong></a>所著的《从一到无穷大——科学中的事实与猜想》（后文统一简称为《从一到无穷大》），应该是独树一帜的存在。</p>
+<blockquote>
+<p>作为“大爆炸宇宙论”的奠基人，乔治·伽莫夫无愧于伟大的核物理学家，宇宙学家这一头衔，但不同于同时代的其他大科学家只留给了后人高深的学术文章，伽莫夫一直致力于科普读物的撰写，他的另一个合格的身份正是科普作家。</p>
+<p>《从一到无穷大》首次出版于1940年，荣获过联合国教科文组织卡琳伽科普奖（世界科普最高奖），也受到过同时代的伟人——阿尔伯特·爱因斯坦的推荐。</p>
+</blockquote>
+<p>我第一次听说这本书，是通过一篇前年的新闻报道，记叙的是清华大学邱勇校长赠送新生一本书籍，即《从一到无穷大》，那时我就产生了很大的兴趣，可惜恰逢考研的备考阶段，一直没买来阅读，后来又渐渐忘却了。</p>
+<p>今年6月，一切都已尘埃落定，闲暇之余，观看李永乐老师的视频时看到他也提到了这本书，又恰逢618电商促销，当即在当当网下单。</p>
+<p>有幸拜读，遂借行文，记录鄙人通过阅读的学习成果。</p>
+<h1 id="第一部分：数字游戏"><a href="#第一部分：数字游戏" class="headerlink" title="第一部分：数字游戏"></a>第一部分：数字游戏</h1><h2 id="第一章：大数字"><a href="#第一章：大数字" class="headerlink" title="第一章：大数字"></a>第一章：大数字</h2><p>伽莫夫1940年在初版书籍的序言中就曾写道：“本书根据重要性和关注度而不是简易程度选择主题，因此在难易程度上有一定的不均匀性，有一些章节简单到连儿童也能理解…”。</p>
+<p>显然，开篇章节的难度就是“连儿童也能理解”。</p>
+<p>数学世界的基本构成是数字，每个人上学时第一次接触到数学，恐怕就是数数了，所以作者适时地向所有读者提出这样一个问题：你最大能数到多少？</p>
+<p>现代人都知道，在写阿拉伯数字时，后面不断添“0”就能使数字越来越大，或者用科学计数法，把计数因子不断增大亦能得到更大的数。</p>
+<p>但是古代人在接触到阿拉伯数字前是不知道这种简易方法的，他们只会将数字元素进行叠加。比如罗马数字中M代表“千”，“八千”就写作MMMMMMMM（8个M）。</p>
+<p>况且，古代人对计数需求不大，所以数字符号的最高位元素也不大，所以要求罗马计数官写出“一百万”，他就要连写上1000个M符号。</p>
+<blockquote>
+<p>相传阿拉伯数字起源于3世纪的古印度，公元771年传入阿拉伯，由阿拉伯传入欧洲（也是阿拉伯数字名称的来由），在13~15世纪才在欧洲各国正式普及。</p>
+</blockquote>
+<p>所以，古人从来不会记录沙滩里有多少沙子，只会表达沙子有“很多”。</p>
+<p>公元前3世纪，古希腊科学家阿基米德在其专著<a href="https://baike.baidu.com/item/数沙者" target="_blank" rel="noopener"><strong>《数沙者》（The Sand Reckoner）</strong></a>中，首次提出了类似科学计数法的概念（详见下）。</p>
+<blockquote>
+<p>古希腊算数中最大单位为“万”（Myriad）。</p>
+<p>阿基米德引入“万万”，即“亿”（Octade）作为第二级单位来记录大数，第三级单位为“亿亿”（Octade Octade），第四级单位为“亿亿亿”（Octade Octade Octade），以此类推下去。</p>
+</blockquote>
+<p>虽然如今看来这极其简单，但在那个时代，阿基米第是第一个发明书写大数字方法的人，使得人类在数学的发展上前进了一大步。</p>
+<p>历史上广为流传的一个故事——“国王与麦粒”，就是一个对大数认知有误而闹的笑话。</p>
+<p>如今网络上流传的版本普遍是：阿基米德与国王下棋，国王输了，问阿基米德想要什么赏赐，阿基米德只要国王在棋盘上放置的全部麦粒，且放置规则为：第一个格子放1粒麦，第二个格子放2粒麦，第三个格子放4粒麦，以此类推，保证每个格子所放麦粒数都是上一个格子的麦粒数的二倍，直至最后一个格子（国际象棋棋盘共64格）。</p>
+<blockquote>
+<p>其实这个事情是真实存在的，只不过发生在印度。</p>
+<p>宰相达依尔发明了象棋，印度舍罕王想奖励他的贡献，达依尔便提出了如上要求。</p>
+</blockquote>
+<p>伽莫夫还在书中还提到了很多同样有趣的大数问题，比如说：计算机世界里的经典算法问题——<a href="https://baike.baidu.com/item/汉诺塔/3468295" target="_blank" rel="noopener"><strong>汉诺塔</strong></a>，著名的“印刷行问题”等等，笔者在此不做赘述。</p>
+<p>本章节的前半部分罗列了各种历史故事，皆旨在让人们认识到，大数相对于日常生活，过于庞大，仅凭人力是难以计算或使用的。</p>
+<p>但大数再难以计算，终归还是可以计算的。</p>
+<p>所以在后半部分，作者借德国数学家<strong><a href="https://baike.baidu.com/item/格奥尔格·康托尔/4614747?fromtitle=%E5%BA%B7%E6%89%98%E5%B0%94&amp;fromid=637063&amp;fr=aladdin" target="_blank" rel="noopener">康托尔</a></strong>的问题——“所有整数的个数和一条线段上点的个数，谁更大?”，引出了无穷数这一概念。</p>
+<p>应注意：虽然无穷数是不可计算的，但并不代表无穷数不可比较。</p>
+<p>举个形象的例子：如果你数数只会数到10以内，给你上百根竹签，上百块肉，让你比较竹签和肉谁更多？</p>
+<p>你肯定不会先去数他俩的个数，然后再来比较数字的大小（因为你根本数不出来）。</p>
+<p>你会采取这样的方法：拿一块肉串在一根竹签上，再拿第二块肉串在第二根竹签上，重复上述工作，直至竹签或者肉有一方用完，那么剩下的那一方，就是数量更多的一方。</p>
+<p>康托尔所采取的无穷数比较法就是基于这一思想，如果两个无穷数相互之间能建立一一对应的关系，那么这两个数就可以认为是相等的，不然多出的一方就是较大者。</p>
+<p>根据康托尔提出的这一方法，我们能得到很多有趣的无穷数比较结果。</p>
+<p>比如：$偶数的个数=奇数的个数$。</p>
+<p>这个不难理解，因为可以建立这样的一一对应关系：0→1，2→3，4→5，6→7，$\cdots$</p>
+<blockquote>
+<p>即：$2N$→$2N+1$（$N$取0，1，2，$\cdots$）</p>
+</blockquote>
+<p>难以理解的是接下来的这个例子：$所有整数的个数=偶数的个数$。</p>
+<p>我们先尝试着找一个所有整数与偶数间的一一对应关系，这个也不难：0→0，1→2，2→4，3→6，$\cdots$</p>
+<blockquote>
+<p>即：$N$→$2N$（$N$取0，1，2，$\cdots$）</p>
+</blockquote>
+<p>从康托尔的无穷数比较法知，存在一一对应关系即两个无穷数相等，这个例子中的等式显然是成立的。</p>
+<p>但我们又知道，$所有整数的个数=偶数的个数+奇数的个数$，如果上述例子成立，就说明无穷数里，允许“部分可能等于整体”的成立，事实上也正是如此。</p>
+<p>关于无穷数世界中“部分可能等于整体”思想的理解，伽莫夫提到了另一位德国数学家<a href="https://baike.baidu.com/item/戴维·希尔伯特/7242382?fromtitle=%E5%A4%A7%E5%8D%AB%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9&amp;fromid=10242115&amp;fr=aladdin" target="_blank" rel="noopener"><strong>大卫·希尔伯特</strong></a>所讲过的一个经典故事——“无限房间的旅馆”。</p>
+<p>简单来说：一个旅馆有无限个房间并编好号，现在旅馆已住满，但来了一个旅客想住店，旅馆只需让1号房的旅客搬到2号房，2号房的旅客搬到3号房，以此类推，所有旅客都搬到下一号房间去，就能腾出1号房让新来的旅客住店，如果来了2个，3个，乃至无限个新旅客，也都能找到一种挪动旅客的方式腾出空房间让新旅客住进来。（与之前的“找一一对应关系”有类似之处）</p>
+<blockquote>
+<p>附上李永乐老师关于“希尔伯特旅馆”的科普视频：</p>
+<div class="bilibili">     <iframe src="//player.bilibili.com/player.html?aid=31640013&bvid=BV1oW411C7gp&cid=55329155&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div>
+
+</blockquote>
+<p>虽然“部分可能等于整体”，但“可能”二字就说明，无穷数世界中仍然存在“部分不等于整体”这一合乎“常规逻辑”的事实，也说明了两个无穷数之间并不是只有相等关系。</p>
+<p><del>（废话！不然还比较什么大小😂）</del></p>
+<blockquote>
+<p>为方便后文叙述，在此先列出一个根据康托尔比较法得到的正确结论：</p>
+<p>$整数的个数=分数的个数$。</p>
+</blockquote>
+<p>让我们回到一开始康托尔提出的那个问题上，“所有整数的个数和一条线段上点的个数，谁更大?”。</p>
+<p>我们假设这条线段的长度为1米，线段上每个点到其中一个端点的距离都是固定的，这个距离可以被看作成一个无限小数，如0.751234….</p>
+<blockquote>
+<p>因为只要你的测量仪器够精确，理论上讲，这个距离值会不断精确到下一位，所以距离值可被看作一个无限小数。</p>
+</blockquote>
+<p>因此上述问题，就变成了比较“所有整数的个数和无限小数的个数”。</p>
+<p>应注意，分数都可以化成有理小数，即有限小数和无限循环小数。</p>
+<p>根据前文提到的，$整数的个数=分数的个数$，我们可以知道：$整数的个数=有理小数的个数$。</p>
+<p>所以，所有整数都可以在这条线段上找到一个距离值为有理小数的点与之对应，但那些距离值不是有理小数，是无限不循环小数的点，则无法与整数对应，也就是“多出来了”。</p>
+<p>结论显而易见：$所有整数的个数＜一条线段上的点的个数$。</p>
+<p>虽然是假设线段长度为1米来探讨这一问题，但实际上1米长的线段上点的个数，和任意长度的线段上点的个数，是一样的。</p>
+<blockquote>
+<p>把任意两条线段看作一个三角形的两条边，其中一条线段看作另一条线段的投影，就可以建立线段上各点的一一对应关系，线段的长度变化无非影响的是二者间的夹角变化。</p>
+<p>更有趣的结论：$线段上点的个数=平面上点的个数$。</p>
+<p>对应关系的叙述如下：</p>
+<p>某线段长为n米，线段上任意一点都对应一个无限小数，如：0.75345682…，我们将其奇数位的数字拿出来拼成一个新无限小数0.7358…，将其偶数位的数字拿出来拼成另一个新无限小数0.5462…，两个小数看成一个二维坐标的横纵坐标值<0.7358...，0.5462...>，就可在n米×n米的面上唯一对应一个点，这个点称为线段上该点的“对偶点”。</p>
+<p>推广至三维空间，还可证明出：$线段上点的个数=空间中点的个数$。</p>
+</blockquote>
+<p>康托尔在给出了比较无穷数大小的方法后，还给出了无穷数的等级——希伯来字母א（Aleph，读作“阿列夫”），用于表达无穷数的大小。</p>
+<p>无穷数的最小一级规定为”$א_0$”，每增大一级，下标加1。</p>
+<blockquote>
+<p>无穷数等级转换公式：$2^{א_n} =א_{n+1}$</p>
+</blockquote>
+<p>例如，”$א_0$”代表：“所有整数的个数”这一级别的无穷数。</p>
+<p>​           “$א_1$”代表：“所有几何上点的个数”这一级别的无穷数。</p>
+<p>​           “$א_2$”代表：“所有曲线的样式个数”这一级别的无穷数。</p>
+<p>目前来说，还没有人能举出使用”$א_3$”来表示的无穷数。</p>
+<h2 id="第二章：自然数和人工数"><a href="#第二章：自然数和人工数" class="headerlink" title="第二章：自然数和人工数"></a>第二章：自然数和人工数</h2><p>探讨了大数和无限数这两个离我们生活有些遥远的数字后，让我们把目光聚焦于更贴切于人类日常生活的数字——自然数。</p>
+<p>自然数是数字世界里最古老且经典的存在，自数学诞生之日起，便一直在数学家们的探讨范围内。</p>
+<p>数学按照其作用，主要分为应用数学和理论数学。前者偏向于探求数学知识的应用手段，后者更偏向于数学本身的内在规律。</p>
+<blockquote>
+<p>理论数学中很多问题都是人们大脑构思出来的，可能并不存在任何实际意义，通过对于理论问题的探讨，培养一种数学思维能力。</p>
+<p>理论数学也因为其更“纯粹”，而又被称为“纯粹数学”或“纯数学”。</p>
+</blockquote>
+<p>在“纯粹的”理论数学中，有着更为纯粹的存在——数论，数论的主要研究内容是：整数的性质。</p>
+<p>在数论里，人们对于质数的讨论一直热情不减。</p>
+<blockquote>
+<p>质数：在大于1的自然数中，该自然数只能被1和其自身整除。</p>
+<p>其实在本书出版之时（1940年），学术界一直认为1是质数，现在普遍认为1既不是质数也不是合数，具体原因是为了保证因数分解时，分解式的唯一性。</p>
+<p>参考来源：<a href="https://www.zhihu.com/question/310998574/answer/587861265" target="_blank" rel="noopener"><strong>为什么1不能被认为是质数？-霜夏的回答-知乎</strong></a></p>
+</blockquote>
+<p>在与质数相关的问题中，最大名鼎鼎的莫过于号称“世界近代三大数学猜想之一”的“<a href="https://baike.baidu.com/item/哥德巴赫猜想/72364" target="_blank" rel="noopener"><strong>哥德巴赫猜想</strong></a>”，也是“三大猜想”中，唯一一个仍悬而未决的猜想。</p>
+<blockquote>
+<p>另外两个难题是：费马猜想和四色猜想，分别在1994年由英国数学家，1976年由美国数学家完成证明，形成了费马大定理和四色定理。</p>
+</blockquote>
+<p>在探讨哥德巴赫猜想之前，先了解一些人们早期对于质数的研究历史。</p>
+<p>早在公元前300年左右，古希腊数学家，被誉为“几何之父”的<a href="https://baike.baidu.com/item/欧几里得/182343" target="_blank" rel="noopener"><strong>欧几里得</strong></a>，就证明了质数是无限多个，即不存在最大的质数。</p>
+<blockquote>
+<p>欧几里得采用了反证法证明：</p>
+<p>假设最大质数存在，记为N，设P为“所有”质数的乘积加1，</p>
+<p>即：$P=(3×5×7×\cdots×N)+1$。</p>
+<p>显然：$P&gt;N$，且$P$不会被任意质数整除（$N$以内的质数整除$P$，都会余1）。</p>
+<p>现做如下讨论：如果$P$是质数，那么$N$就不是最大的质数；如果$P$是合数，则一定存在比$N$大的一个质数$N^{‘}$，同样使$N$不再是最大的质数。</p>
+<p>所以两种情况都与假设矛盾，故不存在最大质数，得证。</p>
+</blockquote>
+<p>在知晓质数是无限多个后，人们就开始致力于研究一种方法，以快速简便的找出世间所有的质数。</p>
+<p>最早在公元前200多年，古希腊数学家<a href="https://baike.baidu.com/item/埃拉托斯特尼/841011?fr=aladdin" target="_blank" rel="noopener"><strong>埃拉托斯特尼</strong></a>，就利用“埃拉托斯特尼筛法”（简称“埃式筛法”）快速筛选出了100以内的所有质数。</p>
+<p>这个方法的思想很简单：从最小的质数2开始，将数字依次列出至$N$。先剔除所有2的倍数，再剔除所有3的倍数，再剔除所有5的倍数，以此类推，直至剔除到所有$P$的倍数（$P$为$\sqrt{N}$以内的最大质数）。</p>
+<p>后人们已经利用这种古老却简单的方法，将10亿以内的质数全部检验完毕。</p>
+<blockquote>
+<p>埃拉托斯特尼还是一位地理学家，最大的贡献是设计出了经纬度系统，同时他也是历史文字记载中，最早测量出地球周长的人。</p>
+</blockquote>
+<p>这种简单的“埃式筛法”还是很费时费力的，所以而后的数千年间，数学家们一直致力于寻找表达质数的通式。</p>
+<p>比如在1640年，法国数学家<a href="https://baike.baidu.com/item/皮耶·德·费玛/1444615?fromtitle=%E8%B4%B9%E9%A9%AC&amp;fromid=171707" target="_blank" rel="noopener"><strong>费马</strong></a>提出的质数公式的猜想：$F_n = 2^{2^n}+1$（n = 0，1，2，3，$\cdots$），其中$F_n$被称为费马数。</p>
+<blockquote>
+<p>费马当年只验证了前5个费马数是质数：</p>
+<p>$F_0=2^{2^0}+1=3$</p>
+<p>$F_1=2^{2^1}+1=5$</p>
+<p>$F_2=2^{2^2}+1=17$</p>
+<p>$F_3=2^{2^3}+1=257$</p>
+<p>$F_4=2^{2^4}+1=65537$</p>
+<p>费马认为第6个费马数$F_5$太大了，所以没有计算验证，便给出了这一猜想：满足费马数公式的数都是质数。</p>
+</blockquote>
+<p>长时间以来，费马数一直没有受到人们的质疑。</p>
+<p>直到1732年，时年25岁的瑞士数学家<a href="https://baike.baidu.com/item/莱昂哈德·欧拉/2148998?fromtitle=%E6%AC%A7%E6%8B%89&amp;fromid=162567" target="_blank" rel="noopener"><strong>欧拉</strong></a>，验算出费马数$F_5$并非质数，从而才否定了费马数的猜想。</p>
+<blockquote>
+<p>欧拉计算出$F_5=2^{2^5}+1=4294967297=641×6700417$，显然$F_5$是合数。这也是被誉为“数论之父”的费马，在其一生提出的诸多命题和猜想里，唯一的错误。</p>
+<p>更有趣的是：随着计算机的发展，人们利用计算机对费马数进行计算，发现费马数自$F_4$后都是合数。迄今为止，是质数的费马数也就只有费马当年验算的那5个。</p>
+</blockquote>
+<p>而后数百年间，人们也从未停止过质数通式的寻找工作，但直到今日，到底是否存在这样的通式表达，还是一个未解之谜。</p>
+<p>回顾了人们对质数的一些研究历史，让我们再回到前文所提到的“哥德巴赫猜想”上。</p>
+<p>1742年，哥德巴赫在写给欧拉的一封信中，提到了一个猜想——“任何一个大于5的整数都可写作3个质数之和”。</p>
+<blockquote>
+<p>当年，哥德巴赫给出的原猜想是：任何一个大于2的整数都可写作3个质数之和。</p>
+<p>正如前文所述，哥德巴赫所在时代的学术界都认为1是质数，而今1已经不是质数了，所以上面所述猜想是哥德巴赫原意的今日陈述。</p>
+</blockquote>
+<p>哥德巴赫验证了很多简单的数字，该结论都成立，但哥德巴赫无法给出确切的证明，所以求助于当时赫赫有名的欧拉。</p>
+<p>欧拉在后来给哥德巴赫的回信中，提出了这一猜想的等价表示：</p>
+<p>任何一个大偶数$N$（$N&gt;5$）都可表达成两个质数的和。</p>
+<p>这也是现在人们描述哥德巴赫猜想的常用版本。</p>
+<blockquote>
+<p>设$N＞5$，如果$N$是偶数，$N=2+(N-2)$，其中$N-2$是偶数；</p>
+<p>如果$N$是奇数，$N=3+(N-3)$，其中$N-3$是偶数。</p>
+<p>显然：“$N$可表示为3个质数之和”等价于“任意偶数可表示为2个质数之和”。</p>
+</blockquote>
+<p>但很遗憾，直至欧拉去世，都没证明出该猜想，当然，他也没有找出一个反例推翻猜想。</p>
+<p>如果一个大偶数$N$（$N&gt;5$）是两个质数$A$与$B$的和，且质数$A$可写作不超过$x$个质数因子乘积的形式，质数$B$可写作不超过$y$个质数因子乘积的形式（允许质数因子重复出现），则把该描述简记为“$x+y$”。</p>
+<blockquote>
+<p>显然，哥德巴赫猜想可简记为“$1+1$”。</p>
+</blockquote>
+<p>在哥德巴赫猜想的研究过程中，数学家们证明出的结论，从最初的“大偶数可由300000个质数之和表示”，到后来“$5+5​$”，“$4+4​$”，再到“$1+4​$”，“$1+3​$”，逐步逼近最终的猜想。</p>
+<p>而最为国人熟知的中国数学家<a href="https://baike.baidu.com/item/陈景润/18067" target="_blank" rel="noopener"><strong>陈景润</strong></a>，在1966年，将这一进度推至“$1+2$”，被国内外数学家认可，称为“陈氏定理”，距今已过去54年，目前仍是哥德巴赫猜想这一研究进度的顶峰。</p>
+<p>其实早在陈景润之前，中国数学家<a href="![1592843899696](C:\Users\yc\AppData\Local\Temp\1592843899696.png"><strong>王元</strong></a>)就完成了一系列猜想的证明，1956年至1962年间，王元先后证明了“$3+4​$”，“$3+3​$”，“$2+3​$”，“$1+4​$”。</p>
+<p>其间，王元的侄子——中国数学家<a href="https://baike.baidu.com/item/潘承洞" target="_blank" rel="noopener"><strong>潘承洞</strong></a>还完成了“$1+5$”的证明。</p>
+<p>另外，作为陈景润的师兄，王元还对陈景润“$1+2$”的证明进行了审查，帮助他成功发表论文。</p>
+<blockquote>
+<p>陈景润，王元，潘承洞三位国之栋梁，均师从于<a href="https://baike.baidu.com/item/华罗庚/190988" target="_blank" rel="noopener"><strong>华罗庚</strong></a>先生，属于同门师兄弟。1950年，在华罗庚先生归国后举办的数论讨论班上，他们选择了哥德巴赫猜想作为讨论课题，使我国在哥德巴赫猜想领域的研究一直处于世界巅峰。</p>
+<p>附上李永乐老师关于哥德巴赫猜想的科普视频：</p>
+<div class="bilibili">     <iframe src="//player.bilibili.com/player.html?aid=25860944&bvid=BV1is41157SL&cid=44201825&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> </div>
+
+</blockquote>
+<p>无论是“埃式筛法”，还是后来的“费马数”，再到现在人们一直努力证明的“哥德巴赫猜想”，数学家们一直致力于寻找质数的某种通性，想快速求出一个质数序列，这一工作，就目前来说还任重而道远。</p>
+<p>当然，数论里并不只有关于质数的研究，作者伽莫夫在剩余的篇幅里，着重提到了另一类特殊的自然数——勾股数，以及从勾股数衍生的一类猜想和定理。</p>
+<p>人类对于勾股数的研究由来已久。</p>
+<p>古埃及的工匠，在打造角尺时，会把边长比做成$3：4：5$，这样的三角形也被称为“埃及三角形”。</p>
+<p>公元前6世纪，古希腊数学家<a href="https://baike.baidu.com/item/毕达哥拉斯/328218?fr=aladdin" target="_blank" rel="noopener"><strong>毕达哥拉斯</strong></a>第一个证明了勾股定理，西方一直称该定理为“毕达哥拉斯定理”。</p>
+<p>而在中国，早在西周初年（约公元前1000年），<a href="https://baike.baidu.com/item/商高/1421498?fr=aladdin" target="_blank" rel="noopener"><strong>商高</strong></a>就提出过“勾三股四弦五”的说法，这一说法被记录在西汉时期（公元前1世纪）的算书<a href="https://baike.baidu.com/item/周髀算经/956191" target="_blank" rel="noopener"><strong>《周髀算经》</strong></a>中（髀，音通“匕”）。</p>
+<p>东汉末年东吴人<a href="https://baike.baidu.com/item/赵爽/3036362#3_1" target="_blank" rel="noopener"><strong>赵爽</strong></a>，利用弦图给出了勾股定理的证明，魏晋时期数学家<a href="https://baike.baidu.com/item/刘徽/42748" target="_blank" rel="noopener"><strong>刘徽</strong></a>在对<a href="https://baike.baidu.com/item/九章算术/348232?fr=aladdin" target="_blank" rel="noopener"><strong>《九章算术》</strong></a>进行注解时，对证明进行了补充，并概括为“出入相补原理”。</p>
+<p><img src="http://qc5y092fc.bkt.clouddn.com/%E5%BC%A6%E5%9B%BE.jpg" alt="赵爽-弦图"></p>
+<p>公元3世纪，古希腊数学家<a href="https://baike.baidu.com/item/丢番图" target="_blank" rel="noopener"><strong>丢番图</strong></a>通过代数的观点，描述了何为勾股数：只要三个正整数$a$，$b$，$c$满足方程$a^2+b^2=c^2$，那么就称$a$，$b$，$c$为一组勾股数。</p>
+<blockquote>
+<p>丢番图是最早开始研究代数学的数学家，其研究内容主要为不定方程，后人表彰其贡献，将此类方程也称为：“丢番图方程”。</p>
+</blockquote>
+<p>1621年，法国数学家费马在看完丢番图的著作《算术》后，在书中相关方程旁做了一段笔记，原文大意如下：</p>
+<p>“虽然关于$a$，$b$，$c$的方程$a^2+b^2=c^2$有无数个整数解，但方程$a^n+b^n=c^n$（$n&gt;2$）没有正整数解。”</p>
+<p>费马还解释道：“我已经找到了证明方法，但这里太窄了，写不下。”</p>
+<p>后来费马逝世后，人们才在发现他的这个笔记，将其称作“费马猜想”。一时间引起了欧洲数学家的狂热，争相寻找费马所说的证明方法。</p>
+<p>1753年，欧拉证明了$n=3$和$n=4$的情况。</p>
+<p>1825年，德国数学家<a href="https://baike.baidu.com/item/约翰·彼得·古斯塔夫·勒热纳·狄利克雷/8200419?fromtitle=%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7&amp;fromid=971345&amp;fr=aladdin" target="_blank" rel="noopener"><strong>狄利克雷</strong></a>延用了欧拉的思想，证明了$n=5$的情况。</p>
+<p>再往后，尽管很多数学家都宣布自己证明了费马猜想，其中不乏<a href="https://baike.baidu.com/item/柯西/433717?fr=aladdin" target="_blank" rel="noopener"><strong>柯西</strong></a>，<a href="https://baike.baidu.com/item/亨利·勒贝格/6330476?fromtitle=%E5%8B%92%E8%B4%9D%E6%A0%BC&amp;fromid=2689730" target="_blank" rel="noopener"><strong>勒贝格</strong></a>这样的名家，但无一例外都被否定了。</p>
+<p>直到1993年，英国数学家<a href=""><strong>怀尔斯</strong></a>在剑桥提交了自己的学术报告，证明了费马猜想，之后又用了一年时间完善自己的证明，最终在1995年彻底证明，费马猜想也正式成为费马大定理。</p>
+<blockquote>
+<p>1995年，专家组把怀尔斯的证明过程发表在《数学年刊》第141卷上，证明过程包括两篇文章，共130页，占满了全卷。</p>
+</blockquote>
+<p>自费马提出这个猜想至怀尔斯完全证明，300多年间，无数伟大的数学家，包括欧拉，高斯，图灵等，都未能证明。而且在这一证明过程中，又促使数学界衍生了7门新学科，证明费马定理的过程的确是一部辉煌的历史。</p>
+<p>回到这一章的标题上，以上大量篇幅都在介绍自然数，所谓人工数其实指的就是虚数，一种与实际存在的实数相对，人工虚构的数字。</p>
+<blockquote>
+<p>虽然虚数的诞生过程饱受非难和争议，但随着很多学科的发展，虚数逐渐成为数学里不可缺少的一部分，虚数与实数也并称为复数。应注意，复数集是无序集，即不存在大小排序。</p>
+</blockquote>
+<p>现代数学家一致认为，16世纪的意大利数学家<a href="https://baike.baidu.com/item/吉罗拉莫·卡尔达诺/9967749?fromtitle=%E5%8D%A1%E5%B0%94%E8%BE%BE%E8%AF%BA&amp;fromid=6410850&amp;fr=aladdin" target="_blank" rel="noopener"><strong>卡尔达诺</strong></a>是第一个将“毫无意义”的负数的平方根写进公式的勇士。在讨论是否存在两个数之和是10，之积是40的问题时，卡尔达诺说：“虽然这个问题没有合理的解，但如果这两个数可以写作$5+\sqrt{15}$和$5-\sqrt{15}$，尽管毫无意义，但就有解了。”</p>
+<p>1637年，法国数学家<a href="https://baike.baidu.com/item/笛卡尔/85475" target="_blank" rel="noopener"><strong>笛卡尔</strong></a>发表文章首次给出了“虚数”的叫法，尽管如此，学术界仍然对这一新兴概念抱有否定态度，包括德国数学家<a href="https://baike.baidu.com/item/戈特弗里德·威廉·莱布尼茨/5028927?fromtitle=%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8&amp;fromid=417549" target="_blank" rel="noopener"><strong>莱布尼茨</strong></a>。</p>
+<p>虚数被承认的过程离不开瑞士数学家欧拉的贡献，欧拉在1770年发表了《代数导论》，介绍了与虚数相关的应用，并在1777年发表的《微分公式》一文中，首次使用$i$表示$\sqrt{-1}$，为虚数创建了基本单位的表示。</p>
+<p>从此，人们就可以类似实数中的“由基数1得到所有实数”，由虚数中的基数$i$得到所有虚数，实数集正式扩充为复数集。</p>
+<blockquote>
+<p>虚数写做“$a+bi$”（$a,b$均为实数且$b\not=0$）的形式，其中$a$ 称为虚数的实部，$b$称为虚数的虚部。</p>
+<p>比如：$\sqrt{-9} = \sqrt{9} ×\sqrt{-1}=3i$，$5+\sqrt{-15} = 5+\sqrt{15}i$，实部为$0$和$5$，虚部为$3i$和$\sqrt{15}i$。</p>
+<p>只含虚部的虚数也被称为“纯虚数”，如上例中的$3i$。</p>
+</blockquote>
+<p>至于虚数的几何意义，则是在虚数进入数学世界2个世纪以后，由两位“外行人”给出的。</p>
+<p>18世纪末，挪威测量师维塞尔和巴黎会计师阿尔冈提出，一个复数对应平面上一个点，这一说法得到了德国数学家<a href="https://baike.baidu.com/item/约翰·卡尔·弗里德里希·高斯/9963604?fromtitle=%E9%AB%98%E6%96%AF&amp;fromid=24098#viewPageContent" target="_blank" rel="noopener"><strong>高斯</strong></a>的肯定，并大肆推广。</p>
+<p>复数的对应过程是这样的：一个平面直角坐标系中，复数$a+bi$对应点$(a,b)$，即实部为横坐标值，虚部为纵坐标值。</p>
+<blockquote>
+<p>显然，实数对应的点都落在了横轴上，纯虚数（实部为0）对应的点都落在了竖轴上，所以横轴也被称为实轴，竖轴即虚轴。</p>
+</blockquote>
+<p>很有意思的一件事：</p>
+]]></content>
       <categories>
-          
-          <category> 读书笔记 </category>
-          
-          <category> 科普读物 </category>
-          
+        <category>读书笔记</category>
+        <category>科普读物</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 自然科学 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>写在最前</title>
-      <link href="/post/9a105c1a.html"/>
-      <url>/post/9a105c1a.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果不算系统自动创建的那篇<strong><a href="https://weste99.com/2020/06/17/hello-world/" target="_blank" rel="noopener">博文</a></strong>，这篇博文应该是我在个人博客网站上刊登的第一篇文章，是我这位有着14年上网经验（06年至今^_^）的“老网民”第一次撰写博文，起步虽晚，但来者可追。</p><a id="more"></a><p>详细介绍一下本站，正如站点描述中所述，我将在此进行一些个人创作。</p><blockquote><p>主要涵盖：“自然科学”，“人文历史”，“文学创作”，“精神娱乐”；</p></blockquote><p>具体来讲：目前，我会先分享一些课外读物的读书心得，未来我还会更新一些专业知识的学习过程，以及研究生学习生活的个人纪录，不定期更新~</p><p>形式上以文字记录为主，但可能不仅限于此，会不断完善。</p><p>一直以来我对创作都抱有一定的热情，这次终于正式动工，希望能坚持更新下去。</p><p>最后还要感谢好友<strong><a href="https://x1aoboo.com" target="_blank" rel="noopener">晓波</a></strong>的推荐，让我选择用Hexo+Github搭建自己的博客。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/post/4a17b156.html"/>
-      <url>/post/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>自然科学</tag>
+      </tags>
+  </entry>
 </search>
