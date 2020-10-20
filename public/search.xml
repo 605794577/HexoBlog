@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>论文学习：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</title>
+    <url>/post/d227765c.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a>，由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
+<p><img src="http://i1.fuimg.com/721551/16385d48ed865412.png" alt="无人机上基于传感器的神经自适应比特视频流"></p>
+<a id="more"></a>    
+<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a><strong>前言：</strong></h2><p>这是华中科技大学一个团队于今年6月发表在IEEE多媒体会刊(IEEE Transaction on Multimedia)上的一篇论文，主题是无人机上流媒体传输，</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/post/4a17b156.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -13,21 +22,6 @@
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>写在最前</title>
-    <url>/post/9a105c1a.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果不算系统自动创建的那篇<strong><a href="https://weste99.com/2020/06/17/hello-world/" target="_blank" rel="noopener">博文</a></strong>，这篇博文应该是我在个人博客网站上刊登的第一篇文章，是我这位有着14年上网经验（06年至今^_^）的“老网民”第一次撰写博文，起步虽晚，但来者可追。</p>
-<a id="more"></a>
-<p>详细介绍一下本站，正如站点描述中所述，我将在此进行一些个人创作。</p>
-<blockquote>
-<p>主要涵盖：“自然科学”，“人文历史”，“文学创作”，“精神娱乐”；</p>
-</blockquote>
-<p>具体来讲：目前，我会先分享一些课外读物的读书心得，未来我还会更新一些专业知识的学习过程，以及研究生学习生活的个人纪录，不定期更新~</p>
-<p>形式上以文字记录为主，但可能不仅限于此，会不断完善。</p>
-<p>一直以来我对创作都抱有一定的热情，这次终于正式动工，希望能坚持更新下去。</p>
-<p>最后还要感谢好友<strong><a href="https://x1aoboo.com" target="_blank" rel="noopener">晓波</a></strong>的推荐，让我选择用Hexo+Github搭建自己的博客。</p>
 ]]></content>
   </entry>
   <entry>
@@ -282,12 +276,18 @@
       </tags>
   </entry>
   <entry>
-    <title>论文学习：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</title>
-    <url>/post/d227765c.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a>，由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
-<p><img src="http://i1.fuimg.com/721551/16385d48ed865412.png" alt="无人机上基于传感器的神经自适应比特视频流"></p>
-<a id="more"></a>    
-<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a><strong>前言：</strong></h2><p>这是华中科技大学一个团队于今年6月发表在IEEE多媒体会刊(IEEE Transaction on Multimedia)上的一篇论文，主题是无人机上流媒体传输，</p>
+    <title>写在最前</title>
+    <url>/post/9a105c1a.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>如果不算系统自动创建的那篇<strong><a href="https://weste99.com/2020/06/17/hello-world/" target="_blank" rel="noopener">博文</a></strong>，这篇博文应该是我在个人博客网站上刊登的第一篇文章，是我这位有着14年上网经验（06年至今^_^）的“老网民”第一次撰写博文，起步虽晚，但来者可追。</p>
+<a id="more"></a>
+<p>详细介绍一下本站，正如站点描述中所述，我将在此进行一些个人创作。</p>
+<blockquote>
+<p>主要涵盖：“自然科学”，“人文历史”，“文学创作”，“精神娱乐”；</p>
+</blockquote>
+<p>具体来讲：目前，我会先分享一些课外读物的读书心得，未来我还会更新一些专业知识的学习过程，以及研究生学习生活的个人纪录，不定期更新~</p>
+<p>形式上以文字记录为主，但可能不仅限于此，会不断完善。</p>
+<p>一直以来我对创作都抱有一定的热情，这次终于正式动工，希望能坚持更新下去。</p>
+<p>最后还要感谢好友<strong><a href="https://x1aoboo.com" target="_blank" rel="noopener">晓波</a></strong>的推荐，让我选择用Hexo+Github搭建自己的博客。</p>
 ]]></content>
   </entry>
 </search>
