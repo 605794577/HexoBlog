@@ -281,4 +281,20 @@
         <tag>自然科学</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Sensor-Augmented Nerual Adaptive Bitrate Video Streaming on UAVs</title>
+    <url>/post/1461153c.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a>。</p>
+<p>​    由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
+<p><img src="F:/Hexo/source/images/SA-ABR/Title.png" alt="无人机上基于传感器的神经自适应比特视频流"></p>
+<a id="more"></a>    
+<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a><strong>前言：</strong></h2><p>​    本文是华中科技大学一个团队于今年6月发表在IEEE多媒体会刊(IEEE Transaction on Multimedia)上的一篇论文，主题是无人机上流媒体传输，看了下这个团队里的“大牛”<a href="https://orcid.org/0000-0001-9205-1881" target="_blank" rel="noopener">Qian Zhang</a>之前的学术经历，大多是关于物联网的，在多媒体会刊上也曾发过几篇文章，一直以来都在做传感器相关的研究，所以本文的参考价值还是蛮高的。</p>
+<h2 id="背景："><a href="#背景：" class="headerlink" title="背景："></a><strong>背景：</strong></h2><p>​    目前，无人机的应用已经遍布民用和军用各个领域，具有极高的商业价值，但是无人机与地面客户端之间进行高清视频传输仍然存在挑战。具体原因有二：</p>
+<p>1、无人机飞行状态是动态变化的，本身就不稳定；</p>
+<p>2，目前的商业无人机大多采取固定比特率的传输方法，在恶劣信道条件下容易产生再缓冲(rebuffering)。</p>
+<p>​    针对复杂变化的环境和固定比特率的设计，该团队决定采取自适应比特率(Adaptive Bitrate，以下简称ABR)算法进行优化。应用ABR算法进行视频流传输其实并不新鲜，近年来最有影响力的成果是MIT的一个团队在SIGCOMM 17上提出的Pensieve算法(论文：<a href="http://web.mit.edu/pensieve/" target="_blank" rel="noopener">Neural Adaptive Video Streaming with Pensieve</a>)。    本文提出的SA-ABR(Sensor-Augmented ABR)算法也是基于Pensieve算法的思想的改进版本。</p>
+<h2 id="设计："><a href="#设计：" class="headerlink" title="设计："></a><strong>设计：</strong></h2><p><img src="F:/Hexo/source/images/SA-ABR/Overview.png" alt="1604027147688"></p>
+<p>​    体系结构上，SA-ABR的设计思路基本仿照Pensieve算法，主要不同有两点：1、在网络观测数据中，除了网络吞吐量和视频播放状态，还加入了基于传感器的数据（距离，飞行方向速度，三维加速度），并对传感器数据进行数量化的预处理，以消除噪声干扰；2、在神经网络中，Pensieve采用一维卷积神经网络(1D-CNN)，SA-ABR使用了对时间序列和长序列作为输入更高效的长短期记忆神经网络(LSTM)。</p>
+]]></content>
+  </entry>
 </search>
