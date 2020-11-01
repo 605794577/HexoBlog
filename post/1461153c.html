@@ -21,17 +21,20 @@
     var CONFIG = {"hostname":"yoursite.com","root":"/","scheme":"Gemini","version":"8.0.0-rc.3","exturl":false,"sidebar":{"position":"right","width":300,"display":"always","padding":18,"offset":12,"onmobile":false},"copycode":true,"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#FFFFF0","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"./public/search.xml"};
   </script>
 
-  <meta name="description" content="9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs。 ​    由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。">
+  <meta name="description" content="​    9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs。由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Sensor-Augmented Nerual Adaptive Bitrate Video Streaming on UAVs">
 <meta property="og:url" content="http://yoursite.com/post/1461153c.html">
 <meta property="og:site_name" content="Weste99">
-<meta property="og:description" content="9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs。 ​    由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。">
+<meta property="og:description" content="​    9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs。由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="f:/Hexo/source/images/SA-ABR/Title.png">
 <meta property="og:image" content="f:/Hexo/source/images/SA-ABR/Overview.png">
+<meta property="og:image" content="f:/Hexo/source/images/SA-ABR/Table1.png">
+<meta property="og:image" content="f:/Hexo/source/images/SA-ABR/Table2.png">
+<meta property="og:image" content="f:/Hexo/source/images/SA-ABR/Table3.png">
 <meta property="article:published_time" content="2020-10-30T04:39:14.000Z">
-<meta property="article:modified_time" content="2020-10-30T04:40:33.411Z">
+<meta property="article:modified_time" content="2020-10-30T10:48:34.500Z">
 <meta property="article:author" content="Weste99">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="f:/Hexo/source/images/SA-ABR/Title.png">
@@ -142,7 +145,7 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">4</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">5</span></a>
 
   </li>
         <li class="menu-item menu-item-schedule">
@@ -231,7 +234,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2020-10-30 12:39:14 / 修改时间：12:40:33" itemprop="dateCreated datePublished" datetime="2020-10-30T12:39:14+08:00">2020-10-30</time>
+              <time title="创建时间：2020-10-30 12:39:14 / 修改时间：18:48:34" itemprop="dateCreated datePublished" datetime="2020-10-30T12:39:14+08:00">2020-10-30</time>
             </span>
 
           
@@ -268,14 +271,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>929</span>
+              <span>2.7k</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>1 分钟</span>
+              <span>2 分钟</span>
             </span>
 
         </div>
@@ -287,17 +290,42 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a>。</p>
-<p>​    由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
+        <p>​    9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<strong><a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a></strong>。由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
 <p><img src="F:/Hexo/source/images/SA-ABR/Title.png" alt="无人机上基于传感器的神经自适应比特视频流"></p>
 <a id="more"></a>    
-<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a><strong>前言：</strong></h2><p>​    本文是华中科技大学一个团队于今年6月发表在IEEE多媒体会刊(IEEE Transaction on Multimedia)上的一篇论文，主题是无人机上流媒体传输，看了下这个团队里的“大牛”<a href="https://orcid.org/0000-0001-9205-1881" target="_blank" rel="noopener">Qian Zhang</a>之前的学术经历，大多是关于物联网的，在多媒体会刊上也曾发过几篇文章，一直以来都在做传感器相关的研究，所以本文的参考价值还是蛮高的。</p>
-<h2 id="背景："><a href="#背景：" class="headerlink" title="背景："></a><strong>背景：</strong></h2><p>​    目前，无人机的应用已经遍布民用和军用各个领域，具有极高的商业价值，但是无人机与地面客户端之间进行高清视频传输仍然存在挑战。具体原因有二：</p>
-<p>1、无人机飞行状态是动态变化的，本身就不稳定；</p>
-<p>2，目前的商业无人机大多采取固定比特率的传输方法，在恶劣信道条件下容易产生再缓冲(rebuffering)。</p>
-<p>​    针对复杂变化的环境和固定比特率的设计，该团队决定采取自适应比特率(Adaptive Bitrate，以下简称ABR)算法进行优化。应用ABR算法进行视频流传输其实并不新鲜，近年来最有影响力的成果是MIT的一个团队在SIGCOMM 17上提出的Pensieve算法(论文：<a href="http://web.mit.edu/pensieve/" target="_blank" rel="noopener">Neural Adaptive Video Streaming with Pensieve</a>)。    本文提出的SA-ABR(Sensor-Augmented ABR)算法也是基于Pensieve算法的思想的改进版本。</p>
-<h2 id="设计："><a href="#设计：" class="headerlink" title="设计："></a><strong>设计：</strong></h2><p><img src="F:/Hexo/source/images/SA-ABR/Overview.png" alt="1604027147688"></p>
-<p>​    体系结构上，SA-ABR的设计思路基本仿照Pensieve算法，主要不同有两点：1、在网络观测数据中，除了网络吞吐量和视频播放状态，还加入了基于传感器的数据（距离，飞行方向速度，三维加速度），并对传感器数据进行数量化的预处理，以消除噪声干扰；2、在神经网络中，Pensieve采用一维卷积神经网络(1D-CNN)，SA-ABR使用了对时间序列和长序列作为输入更高效的长短期记忆神经网络(LSTM)。</p>
+<h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a><strong>前言：</strong></h2><p>​    本文是华中科技大学一个团队于今年6月发表在IEEE多媒体会刊(IEEE Transaction on Multimedia)上的一篇论文，主题是无人机上流媒体传输，看了下这个团队里“大牛”<a href="https://orcid.org/0000-0001-9205-1881" target="_blank" rel="noopener">Qian Zhang</a>之前的学术成果，主要方向是物联网，也在多媒体会刊上发过一些与传感器研究相关的论文，所以本文的参考价值还是蛮高的。</p>
+<h2 id="背景："><a href="#背景：" class="headerlink" title="背景："></a><strong>背景：</strong></h2><p>​    目前，无人机的应用已经遍布民用和军用各个领域，具有极高的商业价值，但是无人机与地面客户端之间进行高清视频传输仍然存在挑战。主要原因是商业无人机的链路传输多采取固定比特率视频流的传输手段，在恶劣的信道条件下，会产生严重的再缓冲(rebuffering)。恶劣的信道条件，在此我们主要关注：无人机与地面接收设备间的空地链路的信道容量产生的剧烈波动，而这一波动源自于无人机动态多变的飞行状态。</p>
+<p>​    思路上：针对固定比特率传输的问题，自然想到用自适应比特率(Adaptive Bitrate，以下简称ABR)的传输策略来应对，而针对无人机动态变化的飞行状态这一特性，该团队决定利用传感器数据来处理相关变化。从这两个思路出发，该团队提出“基于传感器的自适应比特率”算法(Sensor-Augmented Adaptive Bitrate Algorithm，以下简称SA-ABR算法)。</p>
+<p>​    应用ABR算法进行视频流传输的研究还挺热门的，近几年来比较有影响力的研究成果是MIT CSAIL的一个团队在SIGCOMM 17会议上提出的Pensieve算法(论文：<a href="http://web.mit.edu/pensieve/" target="_blank" rel="noopener">Neural Adaptive Video Streaming with Pensieve</a>)。在2017年，网络领域的研究还很传统，和机器学习等前沿领域的互动不够，Pensieve团队倒是开了个好头，提供了新思路并给出实际设计，为后续的ABR算法研究提供了很好的模板，SA-ABR算法也是基于Pensieve算法进行改进而得到的。</p>
+<h2 id="设计："><a href="#设计：" class="headerlink" title="设计："></a><strong>设计：</strong></h2><h3 id="体系结构："><a href="#体系结构：" class="headerlink" title="体系结构："></a><strong>体系结构：</strong></h3><p><img src="F:/Hexo/source/images/SA-ABR/Overview.png" alt="SA-ABR体系结构"></p>
+<p>​    基于Pensieve的改进，故整体体系结构还是采用以网络观测数据作为神经网络的输入，通过神经网络训练，自适应做比特率决策，并返回下一组网络观测数据，循环往复…</p>
+<blockquote>
+<p>视频流传输的网络观测(Networks Observation)主要聚焦于：网络吞吐量，视频播放状态。</p>
+</blockquote>
+<p>​    SA-ABR算法不同于Pensieve算法的改动主要有两处：</p>
+<p>​    1.在输入数据中加入传感器数据。</p>
+<p>​    2.舍弃Pensieve算法中的一维卷积神经网络(1D-CNN)，改用长短期记忆(LSTM)循环神经网络进行训练。</p>
+<p>   改动1的理由之前也提到过，对于无人机复杂的飞行状态，应该予以记录并反馈给神经网络，便于更好做决策，改动2的理由则是由无人机视频流的特性决定的，LSTM对于时间序列和长序列的输入表现更好，能够更准确的捕捉输入序列的时间特征，故能提高预测能力。</p>
+<p>​    另外应注意，图中的传感器数据并不是直接作为输入放入神经网络中的，而是经历了一道预处理，具体来说就是将传感器数据进行量化，以消除噪声干扰，后文会讲到具体的量化规则。</p>
+<h3 id="飞行状态研究："><a href="#飞行状态研究：" class="headerlink" title="飞行状态研究："></a><strong>飞行状态研究：</strong></h3><p>​    借助无人机上先进的传感器设备，比如GPS，惯性测量单元(IMU)，就可以得到实时的传感器数据，经过研究，主要的影响因素有三：距离，速度，加速度。其中距离指无人机与地面接收装置间的欧氏距离，加速度是一个三维矢量数据，速度只采用正向飞行的速度，不考虑侧风等干扰因素带来的速度变化。</p>
+<p>​    <img src="F:/Hexo/source/images/SA-ABR/Table1.png" alt="受控飞行状态下距离和速度对吞吐量的影响"></p>
+<p>​    上图是研究在受控飞行状态(Controlled flight states)下，距离与速度对吞吐量的影响。四幅图的纵坐标都是吞吐量，其中图(a)和图(b)横坐标是距离，图(c)和图(d)横坐标是速度。很明显可以得到一个暂时的结论，随着距离和速度的增大，吞吐量明显下降。</p>
+<blockquote>
+<p>​    图(a)、图(b)分别反映了在无人机悬停时、以8m/s的速度飞行时两种不同的飞行状态下距离对吞吐量的影响；图(c)、图(d)分别反映了无人机距离地面接收设备20m远、距离地面接收设备50m远两种情况下速度对吞吐量的影响。通过两组对照实验，保证了实验结果的精确性。</p>
+</blockquote>
+<p><img src="F:/Hexo/source/images/SA-ABR/Table2.png" alt="非受控飞行状态下距离和速度对吞吐量的影响"></p>
+<p>​    受控飞行状态是在预设条件下进行实验的，为了更贴合实际，作者让无人机进行自由飞行，即非受控飞行状态(Uncontrolled flight states)。如图(a)、图(c)所示，距离与速度的变化对吞吐量的影响也是符合之前实验结论和预期设想的。为了更好表现距离与速度对吞吐量的冲击特性，图(b)、图(d)选用累积分布函数(CDF)将一个绝对的变化转换成了一个概率问题，即：随着距离和速度的增大，吞吐量分布在数值较低区域的概率更大。相对之前的实验结论，这种更复杂的结论表达，对于实际情况的刻画才更为精准。</p>
+<blockquote>
+<p>​    应注意图(d)中，红色曲线和蓝色曲线的走势基本一致，很多地方甚至有较大重合，说明速度v在0m/s到8m/s的范围内变化时，对吞吐量的影响并不是很大，这一结论在后续有关加速度的实验中会用到。</p>
+</blockquote>
+<p><img src="F:/Hexo/source/images/SA-ABR/Table3.png" alt="加速度对吞吐量的影响"></p>
+<p>​    其实对于加速度的研究，更多的是对实验结论的一个补充。首先加速度数据应经过一次筛选，我们只关注于较高数值的变化，因为这更有可能是飞行器真实的加速度变化，而非其他环境干扰因素。</p>
+<p>​    上图中，有两个值得关注的时间点：</p>
+<p>​    1.Time = 8s左右，速度v在虚线，即8m/s的基准线的下方，按照之前的结论，在此区间内变化的速度对吞吐量的影响微乎其微，但是实际现象是吞吐量曲线剧烈波动。</p>
+<p>​    2.Time = 38s左右，速度v先下降，吞吐量明显增大，这很符合我们之前的实验结果，但随后v在基准线以下上升了一点，也是不足以引起吞吐量剧烈波动的变化，但吞吐量明显下降。</p>
+<p>​    结合这两个时间点的反常现象和图表中的其他信息，可以得到一个推论：加速度的变化也会影响吞吐量且二者正相关。</p>
+<p>​    综上实验可得结论：</p>
+<p>​    1.吞吐量的大小与距离的大小、速度的大小均呈反比。2.加速度越大，对吞吐量的影响也就越大。3.加速度与距离，速度等影响因子存在冲突问题，引发不规则现象。4.现实环境贴合非受控飞行状态(Uncontrolled flight states)，传感器数据和吞吐量之间的关系，不再具有明显的单调性，存在误判。5.综合数据决定吞吐量，传统ABR算法难以找出确定的解析表达式。</p>
 
     </div>
 
@@ -337,7 +365,10 @@
     <a href="/post/5485a447.html" rel="prev" title="《从一到无穷大》">
       <i class="fa fa-chevron-left"></i> 《从一到无穷大》
     </a></div>
-      <div class="post-nav-item"></div>
+      <div class="post-nav-item">
+    <a href="/post/12b2e25c.html" rel="next" title="具体数学：笔记：成套方法">
+      具体数学：笔记：成套方法 <i class="fa fa-chevron-right"></i>
+    </a></div>
     </div>
       </footer>
     
@@ -398,7 +429,7 @@
 		 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#前言："><span class="nav-number">1.</span> <span class="nav-text">前言：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#背景："><span class="nav-number">2.</span> <span class="nav-text">背景：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#设计："><span class="nav-number">3.</span> <span class="nav-text">设计：</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#前言："><span class="nav-number">1.</span> <span class="nav-text">前言：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#背景："><span class="nav-number">2.</span> <span class="nav-text">背景：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#设计："><span class="nav-number">3.</span> <span class="nav-text">设计：</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#体系结构："><span class="nav-number">3.1.</span> <span class="nav-text">体系结构：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#飞行状态研究："><span class="nav-number">3.2.</span> <span class="nav-text">飞行状态研究：</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -414,7 +445,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">4</span>
+          <span class="site-state-item-count">5</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -496,13 +527,13 @@
       <i class="fa fa-chart-area"></i>
     </span>
       <span class="post-meta-item-text">站点总字数：</span>
-    <span title="站点总字数">11k</span>
+    <span title="站点总字数">13k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
       <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
-    <span title="站点阅读时长">10 分钟</span>
+    <span title="站点阅读时长">12 分钟</span>
 </div>
   <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
   </div>
