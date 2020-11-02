@@ -16,6 +16,35 @@
 ]]></content>
   </entry>
   <entry>
+    <title>《具体数学》笔记：成套方法</title>
+    <url>/post/12b2e25c.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>今早在看《具体数学》（《Concrete Mathematics》，Donald E. Knuth所著，人民邮电出版社第二版）第22页有关<strong>“如何从和式的递推式求出和式的封闭形式？”</strong>这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。</p>
+<p>上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在耗费了一个小时后，终于理解了成套方法的详细求解过程，遂借行文予以记录。</p>
+<a id="more"></a>
+<h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a><strong>引入</strong></h2><p>对于一个和式：$S_n=\sum_{k=0}^{n}{a_k}$；</p>
+<p>我们很容易得到他的等价表达：<script type="math/tex">S_n=\begin{cases} a_0,n=0 \\ S_{n-1}+a_n,n>0 \end{cases}</script>；</p>
+<p>但这只是一个递归式，对于求解$S_n$我们更希望找到它的封闭关系，求解封闭关系有很多，其中基础一种方法就是成套方法。</p>
+<p>为了更好理解成套方法的解题过程，我还是用书上的例题来说明这个问题。</p>
+<p>已知：$\begin{cases}R_0=\alpha;\\ R_n=R_{n-1}+\beta+\gamma n，n&gt;0 \end{cases}$，求$R_0$的封闭关系？</p>
+<p>我们可以运用“Guess-Proof”的思想，试写出前几项，然后提出猜想，再给予证明。</p>
+<h2 id="解题步骤"><a href="#解题步骤" class="headerlink" title="解题步骤"></a><strong>解题步骤</strong></h2><p>①.由题设可得：</p>
+<script type="math/tex; mode=display">
+R_0=\alpha;\\
+R_1=\alpha+\beta+\gamma;\\
+R_2=\alpha+2\beta+3\gamma;\\
+\cdots</script><p>不妨设：$R_n=A(n)\alpha+B(n)\beta+C(n)\gamma\$，其中$A(n)、B(n)、C(n)$都是与$n$相关的系数，它依赖于一般的参数$\alpha、\beta、\gamma$。</p>
+<p>②.取$f(n)=1$，令$R_n=1$，即：$R_0=\alpha=1;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=1;\\\cdots$，取$\alpha=1，\beta=\gamma=0$（该参数值的解可能不唯一，但我们只取一组）。回代$(\alpha、\beta、\gamma)=(1,0,0)$，得$R_n=A(n)$，又因为$R_n=1$，故$A(n)=1$；</p>
+<p>同理：取$f(n)=n$，令$R_n=n$，即：$R_0=\alpha=0;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=2;\\\cdots$，取$\alpha=0，\beta=1，\gamma=0$。回代$(\alpha、\beta、\gamma)=(0,1,0)$，得$R_n=B(n)$，又因为$R_n=n$，故$B(n)=n$；</p>
+<p>最后，取$f(n)=n^2$，令$R_n=n^2$，即：$R_0=\alpha=0；\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=4;\\\cdots$，取$\alpha=0，\beta=-1，\gamma=2$。回代$(\alpha、\beta、\gamma)=(0,-1,2)$，得$R_n=-B(n)+2C(n)$，又因为$R_n=n^2,B(n)=n$，故$C(n)=\frac{n^2+n}{2}$。</p>
+<blockquote>
+<p>我们规定一个与$n$相关的函数$f(n)$，它可以是任意形式（甚至可以是常数函数$f(n)=C$，就像上述求解中的$f(n)=1$一样），只要方便于后面的求解。然后我们令$R_n=f(n)$，解出一般参数$\alpha、\beta、\gamma$的一组特解，最后再带入$R_n$解出$A(n)、B(n)、C(n)$。</p>
+</blockquote>
+<p>③.综上，前$n$项和$R_n$的封闭形式：$R_n=\alpha+n\beta+\frac{n^2+n}{2}\gamma$，解毕。    </p>
+<h2 id="要点总结"><a href="#要点总结" class="headerlink" title="要点总结"></a><strong>要点总结</strong></h2><p>1、观察前几项$R_n$的规律，准确找到$R_n$封闭形式的猜想，这是证明的起点。</p>
+<p>2、选取$f(n)$应巧妙，比如令成常数形式$f(n)=C$，往往就可快速解出那些不含$n$的相关系数。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Sensor-Augmented Nerual Adaptive Bitrate Video Streaming on UAVs</title>
     <url>/post/1461153c.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>​    9月24日，导师发给我一篇论文让我9月26日组会时汇报，题为：<strong><a href="https://ieeexplore.ieee.org/document/8855031" target="_blank" rel="noopener">Sensor-Augmented Neural Adaptive Bitrate Video Streaming on UAVs</a></strong>。由于国庆放假以及组会上各种状况，一直拖到10月19日才汇报完，本篇论文是我研究生期间正式学习并汇报的第一篇文章，借此行文以作纪念的同时，一并记录学习内容，便于后日回顾。</p>
@@ -54,35 +83,6 @@
 <p>​    结合这两个时间点的反常现象和图表中的其他信息，可以得到一个推论：加速度的变化也会影响吞吐量且二者正相关。</p>
 <p>​    综上实验可得结论：</p>
 <p>​    1.吞吐量的大小与距离的大小、速度的大小均呈反比。2.加速度越大，对吞吐量的影响也就越大。3.加速度与距离，速度等影响因子存在冲突问题，引发不规则现象。4.现实环境贴合非受控飞行状态(Uncontrolled flight states)，传感器数据和吞吐量之间的关系，不再具有明显的单调性，存在误判。5.综合数据决定吞吐量，传统ABR算法难以找出确定的解析表达式。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《具体数学》笔记：成套方法</title>
-    <url>/post/12b2e25c.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>今早在看《具体数学》（《Concrete Mathematics》，Donald E. Knuth所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式？”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。</p>
-<p>上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在耗费了一个小时后，终于理解了成套方法的详细求解过程，遂借行文予以记录。</p>
-<a id="more"></a>
-<h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a><strong>引入</strong></h2><p>对于一个和式：$S_n=\sum_{k=0}^{n}{a_k}$；</p>
-<p>我们很容易得到他的等价表达：<script type="math/tex">S_n=\begin{cases} a_0,n=0 \\ S_{n-1}+a_n,n>0 \end{cases}</script>；</p>
-<p>但这只是一个递归式，对于求解$S_n$我们更希望找到它的封闭关系，求解封闭关系有很多，其中基础一种方法就是成套方法。</p>
-<p>为了更好理解成套方法的解题过程，我还是用书上的例题来说明这个问题。</p>
-<p>已知：$\begin{cases}R_0=\alpha;\\ R_n=R_{n-1}+\beta+\gamma n，n&gt;0 \end{cases}$，求$R_0$的封闭关系？</p>
-<p>我们可以运用“Guess-Proof”的思想，试写出前几项，然后提出猜想，再给予证明。</p>
-<h2 id="解题步骤"><a href="#解题步骤" class="headerlink" title="解题步骤"></a><strong>解题步骤</strong></h2><p>①.由题设可得：</p>
-<script type="math/tex; mode=display">
-R_0=\alpha;\\
-R_1=\alpha+\beta+\gamma;\\
-R_2=\alpha+2\beta+3\gamma;\\
-\cdots</script><p>不妨设：$R_n=A(n)\alpha+B(n)\beta+C(n)\gamma\$，其中$A(n)、B(n)、C(n)$都是与$n$相关的系数，它依赖于一般的参数$\alpha、\beta、\gamma$。</p>
-<p>②.取$f(n)=1$，令$R_n=1$，即：$R_0=\alpha=1;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=1;\\\cdots$，取$\alpha=1，\beta=\gamma=0$（该参数值的解可能不唯一，但我们只取一组）。回代$(\alpha、\beta、\gamma)=(1,0,0)$，得$R_n=A(n)$，又因为$R_n=1$，故$A(n)=1$；</p>
-<p>同理：取$f(n)=n$，令$R_n=n$，即：$R_0=\alpha=0;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=2;\\\cdots$，取$\alpha=0，\beta=1，\gamma=0$。回代$(\alpha、\beta、\gamma)=(0,1,0)$，得$R_n=B(n)$，又因为$R_n=n$，故$B(n)=n$；</p>
-<p>最后，取$f(n)=n^2$，令$R_n=n^2$，即：$R_0=\alpha=0；\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=4;\\\cdots$，取$\alpha=0，\beta=-1，\gamma=2$。回代$(\alpha、\beta、\gamma)=(0,-1,2)$，得$R_n=-B(n)+2C(n)$，又因为$R_n=n^2,B(n)=n$，故$C(n)=\frac{n^2+n}{2}$。</p>
-<blockquote>
-<p>我们规定一个与$n$相关的函数$f(n)$，它可以是任意形式（甚至可以是常数函数$f(n)=C$，就像上述求解中的$f(n)=1$一样），只要方便于后面的求解。然后我们令$R_n=f(n)$，解出一般参数$\alpha、\beta、\gamma$的一组特解，最后再带入$R_n$解出$A(n)、B(n)、C(n)$。</p>
-</blockquote>
-<p>③.综上，前$n$项和$R_n$的封闭形式：$R_n=\alpha+n\beta+\frac{n^2+n}{2}\gamma$，解毕。    </p>
-<h2 id="要点总结"><a href="#要点总结" class="headerlink" title="要点总结"></a><strong>要点总结</strong></h2><p>1、观察前几项$R_n$的规律，准确找到$R_n$封闭形式的猜想，这是证明的起点。</p>
-<p>2、选取$f(n)$应巧妙，比如令成常数形式$f(n)=C$，往往就可快速解出那些不含$n$的相关系数。</p>
 ]]></content>
   </entry>
   <entry>
