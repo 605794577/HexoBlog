@@ -1117,12 +1117,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .main-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
   .main-inner {
-    width: 73%;
+    width: 88%;
   }
 }
 @media (max-width: 767px) {
@@ -1139,12 +1139,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
   .header-inner {
-    width: 73%;
+    width: 88%;
   }
 }
 .site-brand-container {
@@ -1450,7 +1450,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9e8645;
+  background: #ff2109;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1657,12 +1657,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 73%;
+    width: 88%;
   }
 }
 .languages {
@@ -1835,7 +1835,7 @@ pre code {
   top: 0;
 }
 .post-body {
-  font-family: 'Roboto Slab', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2157,7 +2157,7 @@ pre code {
 }
 .posts-expand .post-meta {
   color: #999;
-  font-family: 'Roboto Slab', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 0.75em;
   margin: 3px 0 60px 0;
   text-align: center;
@@ -2642,12 +2642,12 @@ mjx-container + br {
 }
 @media (min-width: 1200px) {
   .header {
-    width: 1160px;
+    width: 1200px;
   }
 }
 @media (min-width: 1600px) {
   .header {
-    width: 73%;
+    width: 88%;
   }
 }
 @media (max-width: 991px) {

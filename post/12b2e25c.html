@@ -12,7 +12,7 @@
 
 <link rel="stylesheet" href="/css/main.css">
 
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic|Roboto Slab:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic|PT Mono:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
 
@@ -21,15 +21,15 @@
     var CONFIG = {"hostname":"yoursite.com","root":"/","scheme":"Gemini","version":"8.0.0-rc.3","exturl":false,"sidebar":{"position":"right","width":300,"display":"always","padding":18,"offset":12,"onmobile":false},"copycode":true,"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#FFFFF0","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"./public/search.xml"};
   </script>
 
-  <meta name="description" content="​    今早在看具体数学课本（Concrete Mathematics，Ronald L. Graham所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔">
+  <meta name="description" content="今早在看《具体数学》（《Concrete Mathematics》，Donald E. Knuth所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式？”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。 上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在">
 <meta property="og:type" content="article">
-<meta property="og:title" content="具体数学：笔记：成套方法">
+<meta property="og:title" content="《具体数学》笔记：成套方法">
 <meta property="og:url" content="http://yoursite.com/post/12b2e25c.html">
 <meta property="og:site_name" content="Weste99">
-<meta property="og:description" content="​    今早在看具体数学课本（Concrete Mathematics，Ronald L. Graham所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔">
+<meta property="og:description" content="今早在看《具体数学》（《Concrete Mathematics》，Donald E. Knuth所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式？”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。 上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2020-11-01T05:53:26.000Z">
-<meta property="article:modified_time" content="2020-11-01T17:22:12.135Z">
+<meta property="article:modified_time" content="2020-11-02T06:40:05.433Z">
 <meta property="article:author" content="Weste99">
 <meta name="twitter:card" content="summary">
 
@@ -46,7 +46,7 @@
   };
 </script>
 
-  <title>具体数学：笔记：成套方法 | Weste99</title>
+  <title>《具体数学》笔记：成套方法 | Weste99</title>
   
 
 
@@ -102,8 +102,8 @@
       <h1 class="site-title">Weste99</h1>
       <span class="logo-line-after"><i></i></span>
     </a>
-      <p class="site-subtitle" itemprop="description">From One to Infinity</p>
-      <img class="custom-logo-image" src="/images/custom_logo_rwby.png" alt="Weste99">
+      <p class="site-subtitle" itemprop="description">From Zer0 to Infinity</p>
+      <img class="custom-logo-image" src="F:/Hexo/source/images/config/custom_logo_rwby.png" alt="Weste99">
   </div>
 
   <div class="site-nav-right">
@@ -205,7 +205,7 @@
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/post/12b2e25c.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="http://qc5y092fc.bkt.clouddn.com/yato-avatar.jpg">
+      <meta itemprop="image" content="F:/Hexo/source/images/config/avatar_yato.jpg">
       <meta itemprop="name" content="Weste99">
       <meta itemprop="description" content="探讨自然科学，热爱人文历史；<br>偶有文学创作，常驻精神娱乐。">
     </span>
@@ -215,7 +215,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          具体数学：笔记：成套方法
+          《具体数学》笔记：成套方法
         </h1>
 
         <div class="post-meta">
@@ -234,11 +234,11 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-11-02 01:22:12" itemprop="dateModified" datetime="2020-11-02T01:22:12+08:00">2020-11-02</time>
+                <time title="修改时间：2020-11-02 14:40:05" itemprop="dateModified" datetime="2020-11-02T14:40:05+08:00">2020-11-02</time>
               </span>
 
           
-            <span id="/post/12b2e25c.html" class="post-meta-item leancloud_visitors" data-flag-title="具体数学：笔记：成套方法" title="阅读次数">
+            <span id="/post/12b2e25c.html" class="post-meta-item leancloud_visitors" data-flag-title="《具体数学》笔记：成套方法" title="阅读次数">
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
               </span>
@@ -290,27 +290,30 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>​    今早在看具体数学课本（Concrete Mathematics，Ronald L. Graham所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在耗费了一个小时后，终于理解了成套方法的详细求解过程，遂借行文予以记录。</p>
+        <p>今早在看《具体数学》（《Concrete Mathematics》，Donald E. Knuth所著，人民邮电出版社第二版）第22页有关“如何从和式的递推式求出和式的封闭形式？”这一问题时，我对书中成套方法（Repertoire Method）的求解描述产生了困惑。</p>
+<p>上网百度了一下，发现只有个别码农的博客里提到了这个问题，但基本上都是照搬课本原文，具体计算过程写的十分简练，故只能自己琢磨。笔者在耗费了一个小时后，终于理解了成套方法的详细求解过程，遂借行文予以记录。</p>
 <a id="more"></a>
-<p>​    对于一个和式$S_n=\sum_{k=0}^{n}{a_k}$，我们很容易得到他的等价表达：$S_n=\begin{cases} a_0,n=0 \\ S_{n-1}+a_n,n&gt;0 \end{cases}$，但这只是一个递归式，对于求解$S_n$我们更希望找到它的封闭关系，我们就可以使用成套方法来求解。</p>
-<p>​    为了更好理解成套方法的解题过程，我还是用书上的例题来说明这个问题。</p>
-<p>​    已知$\begin{cases}R_0=\alpha;\\ R_n=R_{n-1}+\beta+\gamma n，n&gt;0 \end{cases}$，求$R_0$的封闭关系。我们可以运用“Guess-Proof”的思想，试写出前几项，然后提出猜想，再给予证明。</p>
-<p>​    ①.由题设可得：</p>
+<h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a><strong>引入</strong></h2><p>对于一个和式：$S_n=\sum_{k=0}^{n}{a_k}$；</p>
+<p>我们很容易得到他的等价表达：<script type="math/tex">S_n=\begin{cases} a_0,n=0 \\ S_{n-1}+a_n,n>0 \end{cases}</script>；</p>
+<p>但这只是一个递归式，对于求解$S_n$我们更希望找到它的封闭关系，求解封闭关系有很多，其中基础一种方法就是成套方法。</p>
+<p>为了更好理解成套方法的解题过程，我还是用书上的例题来说明这个问题。</p>
+<p>已知：$\begin{cases}R_0=\alpha;\\ R_n=R_{n-1}+\beta+\gamma n，n&gt;0 \end{cases}$，求$R_0$的封闭关系？</p>
+<p>我们可以运用“Guess-Proof”的思想，试写出前几项，然后提出猜想，再给予证明。</p>
+<h2 id="解题步骤"><a href="#解题步骤" class="headerlink" title="解题步骤"></a><strong>解题步骤</strong></h2><p>①.由题设可得：</p>
 <script type="math/tex; mode=display">
-R_0=\alpha;
-R_1=\alpha+\beta+\gamma;
-R_2=\alpha+2\beta+3\gamma;
-\cdots</script><p>​    不妨设$R_n=A(n)\alpha+B(n)\beta+C(n)\gamma$，其中$A(n)、B(n)、C(n)$都是与$n$相关的系数，它依赖于一般的参数$\alpha、\beta、\gamma$。</p>
-<p>​    ②.取$f(n)=1$，令$R_n=1$，即$R_0=\alpha=1，R_1=\alpha+\beta+\gamma=1，R_2=\alpha+2\beta+3\gamma=1,\cdots$，取$\alpha=1，\beta=\gamma=0$（该参数值的解可能不唯一，但我们只取一组）。回代$(\alpha、\beta、\gamma)=(1,0,0)$，得$R_n=A(n)$，又因为$R_n=1$，故$A(n)=1$；</p>
-<p>​        同理：取$f(n)=n$，令$R_n=n$，即$R_0=\alpha=0，R_1=\alpha+\beta+\gamma=1，R_2=\alpha+2\beta+3\gamma=2，\cdots$，取$\alpha=0，\beta=1，\gamma=0$。回代$(\alpha、\beta、\gamma)=(0,1,0)$，得$R_n=B(n)$，又因为$R_n=n$，故$B(n)=n$；</p>
-<p>​        最后，取$f(n)=n^2$，令$R_n=n^2$，即$R_0=\alpha=0，R_1=\alpha+\beta+\gamma=1，R_2=\alpha+2\beta+3\gamma=4，\cdots$，取$\alpha=0，\beta=-1，\gamma=2$。回代$(\alpha、\beta、\gamma)=(0,-1,2)$，得$R_n=-B(n)+2C(n)$，又因为$R_n=n^2,B(n)=n$，故$C(n)=\frac{n^2+n}{2}$。</p>
+R_0=\alpha;\\
+R_1=\alpha+\beta+\gamma;\\
+R_2=\alpha+2\beta+3\gamma;\\
+\cdots</script><p>不妨设：$R_n=A(n)\alpha+B(n)\beta+C(n)\gamma\$，其中$A(n)、B(n)、C(n)$都是与$n$相关的系数，它依赖于一般的参数$\alpha、\beta、\gamma$。</p>
+<p>②.取$f(n)=1$，令$R_n=1$，即：$R_0=\alpha=1;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=1;\\\cdots$，取$\alpha=1，\beta=\gamma=0$（该参数值的解可能不唯一，但我们只取一组）。回代$(\alpha、\beta、\gamma)=(1,0,0)$，得$R_n=A(n)$，又因为$R_n=1$，故$A(n)=1$；</p>
+<p>同理：取$f(n)=n$，令$R_n=n$，即：$R_0=\alpha=0;\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=2;\\\cdots$，取$\alpha=0，\beta=1，\gamma=0$。回代$(\alpha、\beta、\gamma)=(0,1,0)$，得$R_n=B(n)$，又因为$R_n=n$，故$B(n)=n$；</p>
+<p>最后，取$f(n)=n^2$，令$R_n=n^2$，即：$R_0=\alpha=0；\\R_1=\alpha+\beta+\gamma=1;\\R_2=\alpha+2\beta+3\gamma=4;\\\cdots$，取$\alpha=0，\beta=-1，\gamma=2$。回代$(\alpha、\beta、\gamma)=(0,-1,2)$，得$R_n=-B(n)+2C(n)$，又因为$R_n=n^2,B(n)=n$，故$C(n)=\frac{n^2+n}{2}$。</p>
 <blockquote>
 <p>我们规定一个与$n$相关的函数$f(n)$，它可以是任意形式（甚至可以是常数函数$f(n)=C$，就像上述求解中的$f(n)=1$一样），只要方便于后面的求解。然后我们令$R_n=f(n)$，解出一般参数$\alpha、\beta、\gamma$的一组特解，最后再带入$R_n$解出$A(n)、B(n)、C(n)$。</p>
 </blockquote>
-<p>​    ③.综上$R_n=\alpha+n\beta+\frac{n^2+n}{2}\gamma$，即前$n$项和$R_n$的封闭形式。    </p>
-<p>​    最后总结一下要点：</p>
-<p>​    1、观察前几项$R_n$的规律，准确找到$R_n$封闭形式的猜想，这是证明的起点。</p>
-<p>​    2、选取$f(n)$应巧妙，比如令成常数形式$f(n)=C$，往往就可快速解出那些不含$n$的相关系数。</p>
+<p>③.综上，前$n$项和$R_n$的封闭形式：$R_n=\alpha+n\beta+\frac{n^2+n}{2}\gamma$，解毕。    </p>
+<h2 id="要点总结"><a href="#要点总结" class="headerlink" title="要点总结"></a><strong>要点总结</strong></h2><p>1、观察前几项$R_n$的规律，准确找到$R_n$封闭形式的猜想，这是证明的起点。</p>
+<p>2、选取$f(n)$应巧妙，比如令成常数形式$f(n)=C$，往往就可快速解出那些不含$n$的相关系数。</p>
 
     </div>
 
@@ -330,7 +333,7 @@ R_2=\alpha+2\beta+3\gamma;
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="http://yoursite.com/post/12b2e25c.html" title="具体数学：笔记：成套方法">http://yoursite.com/post/12b2e25c.html</a>
+    <a href="http://yoursite.com/post/12b2e25c.html" title="《具体数学》笔记：成套方法">http://yoursite.com/post/12b2e25c.html</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -411,13 +414,14 @@ R_2=\alpha+2\beta+3\gamma;
 		 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#引入"><span class="nav-number">1.</span> <span class="nav-text">引入</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#解题步骤"><span class="nav-number">2.</span> <span class="nav-text">解题步骤</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#要点总结"><span class="nav-number">3.</span> <span class="nav-text">要点总结</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="Weste99"
-      src="http://qc5y092fc.bkt.clouddn.com/yato-avatar.jpg">
+      src="F:/Hexo/source/images/config/avatar_yato.jpg">
   <p class="site-author-name" itemprop="name">Weste99</p>
   <div class="site-description" itemprop="description">探讨自然科学，热爱人文历史；<br>偶有文学创作，常驻精神娱乐。</div>
 </div>
@@ -566,92 +570,6 @@ R_2=\alpha+2\beta+3\gamma;
 
 
 
-<script data-pjax>
-  (function() {
-    function leancloudSelector(url) {
-      url = encodeURI(url);
-      return document.getElementById(url).querySelector('.leancloud-visitors-count');
-    }
-
-    function addCount(Counter) {
-      var visitors = document.querySelector('.leancloud_visitors');
-      var url = decodeURI(visitors.id);
-      var title = visitors.dataset.flagTitle;
-
-      Counter('get', '/classes/Counter?where=' + encodeURIComponent(JSON.stringify({ url })))
-        .then(response => response.json())
-        .then(({ results }) => {
-          if (results.length > 0) {
-            var counter = results[0];
-            leancloudSelector(url).innerText = counter.time + 1;
-            Counter('put', '/classes/Counter/' + counter.objectId, { time: { '__op': 'Increment', 'amount': 1 } })
-              .catch(error => {
-                console.error('Failed to save visitor count', error);
-              });
-          } else {
-              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
-              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
-            
-          }
-        })
-        .catch(error => {
-          console.error('LeanCloud Counter Error', error);
-        });
-    }
-
-    function showTime(Counter) {
-      var visitors = document.querySelectorAll('.leancloud_visitors');
-      var entries = [...visitors].map(element => {
-        return decodeURI(element.id);
-      });
-
-      Counter('get', '/classes/Counter?where=' + encodeURIComponent(JSON.stringify({ url: { '$in': entries } })))
-        .then(response => response.json())
-        .then(({ results }) => {
-          for (let url of entries) {
-            let target = results.find(item => item.url === url);
-            leancloudSelector(url).innerText = target ? target.time : 0;
-          }
-        })
-        .catch(error => {
-          console.error('LeanCloud Counter Error', error);
-        });
-    }
-
-    let { app_id, app_key, server_url } = {"enable":true,"app_id":"xp49SK7AzkPgJANLyUEtBDNn-gzGzoHsz","app_key":"97soum0vEgF0w37Drgwpfm49","server_url":null,"security":true};
-    function fetchData(api_server) {
-      var Counter = (method, url, data) => {
-        return fetch(`${api_server}/1.1${url}`, {
-          method,
-          headers: {
-            'X-LC-Id'     : app_id,
-            'X-LC-Key'    : app_key,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(data)
-        });
-      };
-      if (CONFIG.page.isPost) {
-        if (CONFIG.hostname !== location.hostname) return;
-        addCount(Counter);
-      } else if (document.querySelectorAll('.post-title-link').length >= 1) {
-        showTime(Counter);
-      }
-    }
-
-    let api_server = app_id.slice(-9) !== '-MdYXbMMI' ? server_url : `https://${app_id.slice(0, 8).toLowerCase()}.api.lncldglobal.com`;
-
-    if (api_server) {
-      fetchData(api_server);
-    } else {
-      fetch('https://app-router.leancloud.cn/2/route?appId=' + app_id)
-        .then(response => response.json())
-        .then(({ api_server }) => {
-          fetchData('https://' + api_server);
-        });
-    }
-  })();
-</script>
 
 
       </div>
@@ -825,7 +743,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     new Valine(Object.assign({
       el  : '#valine-comments',
       path: location.pathname,
-    }, {"enable":true,"appId":"xp49SK7AzkPgJANLyUEtBDNn-gzGzoHsz","appKey":"97soum0vEgF0w37Drgwpfm49","placeholder":"有何感想，欢迎留言:)","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"language":null,"visitor":false,"comment_count":true,"recordIP":true,"serverURLs":null}
+    }, {"enable":true,"appId":"xp49SK7AzkPgJANLyUEtBDNn-gzGzoHsz","appKey":"97soum0vEgF0w37Drgwpfm49","placeholder":"有何感想，欢迎留言:)","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"language":null,"visitor":true,"comment_count":true,"recordIP":true,"serverURLs":null}
     ));
   }, window.Valine);
 });
